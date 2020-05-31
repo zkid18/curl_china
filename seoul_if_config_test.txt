@@ -1,0 +1,4040 @@
+time_namelookup: 0,003243 
+time_connect: 0,282979 
+time_appconnect: 0,000000 
+time_pretransfer: 0,283060 
+time_redirect: 0,000000 
+time_starttransfer: 1,271723 
+time_total: 1,271974 
+----------- 
+time_namelookup: 0,002963 
+time_connect: 0,402019 
+time_appconnect: 0,000000 
+time_pretransfer: 0,402112 
+time_redirect: 0,000000 
+time_starttransfer: 1,360019 
+time_total: 1,360197 
+----------- 
+time_namelookup: 0,002714 
+time_connect: 0,174617 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174719 
+time_redirect: 0,000000 
+time_starttransfer: 1,069691 
+time_total: 1,069786 
+----------- 
+time_namelookup: 0,003067 
+time_connect: 0,167043 
+time_appconnect: 0,000000 
+time_pretransfer: 0,167200 
+time_redirect: 0,000000 
+time_starttransfer: 0,585600 
+time_total: 0,585757 
+----------- 
+time_namelookup: 0,002601 
+time_connect: 0,407165 
+time_appconnect: 0,000000 
+time_pretransfer: 0,407281 
+time_redirect: 0,000000 
+time_starttransfer: 1,455331 
+time_total: 1,455425 
+----------- 
+time_namelookup: 0,002624 
+time_connect: 0,178624 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178771 
+time_redirect: 0,000000 
+time_starttransfer: 1,041932 
+time_total: 1,042034 
+----------- 
+time_namelookup: 0,002771 
+time_connect: 0,170963 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171116 
+time_redirect: 0,000000 
+time_starttransfer: 0,610479 
+time_total: 0,610572 
+----------- 
+time_namelookup: 0,002560 
+time_connect: 0,180036 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180191 
+time_redirect: 0,000000 
+time_starttransfer: 0,604407 
+time_total: 0,604582 
+----------- 
+time_namelookup: 0,002907 
+time_connect: 0,191319 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191442 
+time_redirect: 0,000000 
+time_starttransfer: 0,620462 
+time_total: 0,620580 
+----------- 
+time_namelookup: 0,002842 
+time_connect: 0,389959 
+time_appconnect: 0,000000 
+time_pretransfer: 0,390169 
+time_redirect: 0,000000 
+time_starttransfer: 1,261811 
+time_total: 1,261902 
+----------- 
+time_namelookup: 0,004249 
+time_connect: 0,194704 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194793 
+time_redirect: 0,000000 
+time_starttransfer: 0,627649 
+time_total: 0,627822 
+----------- 
+time_namelookup: 0,002603 
+time_connect: 0,397782 
+time_appconnect: 0,000000 
+time_pretransfer: 0,397854 
+time_redirect: 0,000000 
+time_starttransfer: 0,828659 
+time_total: 0,828904 
+----------- 
+time_namelookup: 0,002429 
+time_connect: 0,195742 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195821 
+time_redirect: 0,000000 
+time_starttransfer: 0,605319 
+time_total: 0,605465 
+----------- 
+time_namelookup: 0,003155 
+time_connect: 0,202917 
+time_appconnect: 0,000000 
+time_pretransfer: 0,203071 
+time_redirect: 0,000000 
+time_starttransfer: 1,038830 
+time_total: 1,039004 
+----------- 
+time_namelookup: 0,003087 
+time_connect: 0,189497 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189661 
+time_redirect: 0,000000 
+time_starttransfer: 1,040017 
+time_total: 1,040115 
+----------- 
+time_namelookup: 0,002628 
+time_connect: 0,173581 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173710 
+time_redirect: 0,000000 
+time_starttransfer: 0,800803 
+time_total: 0,800982 
+----------- 
+time_namelookup: 0,003057 
+time_connect: 0,457023 
+time_appconnect: 0,000000 
+time_pretransfer: 0,457125 
+time_redirect: 0,000000 
+time_starttransfer: 0,924659 
+time_total: 0,924925 
+----------- 
+time_namelookup: 0,002528 
+time_connect: 0,334045 
+time_appconnect: 0,000000 
+time_pretransfer: 0,334135 
+time_redirect: 0,000000 
+time_starttransfer: 0,844147 
+time_total: 0,844320 
+----------- 
+time_namelookup: 0,002697 
+time_connect: 0,185798 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185872 
+time_redirect: 0,000000 
+time_starttransfer: 0,658280 
+time_total: 0,658373 
+----------- 
+time_namelookup: 0,002731 
+time_connect: 0,251089 
+time_appconnect: 0,000000 
+time_pretransfer: 0,251155 
+time_redirect: 0,000000 
+time_starttransfer: 0,977845 
+time_total: 0,977950 
+----------- 
+time_namelookup: 0,003424 
+time_connect: 0,167778 
+time_appconnect: 0,000000 
+time_pretransfer: 0,167867 
+time_redirect: 0,000000 
+time_starttransfer: 0,798013 
+time_total: 0,798244 
+----------- 
+time_namelookup: 0,003300 
+time_connect: 0,191185 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191309 
+time_redirect: 0,000000 
+time_starttransfer: 0,872783 
+time_total: 0,872957 
+----------- 
+time_namelookup: 0,002847 
+time_connect: 0,172345 
+time_appconnect: 0,000000 
+time_pretransfer: 0,172474 
+time_redirect: 0,000000 
+time_starttransfer: 0,878940 
+time_total: 0,879126 
+----------- 
+time_namelookup: 0,002678 
+time_connect: 0,185419 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185557 
+time_redirect: 0,000000 
+time_starttransfer: 0,910010 
+time_total: 0,910147 
+----------- 
+time_namelookup: 0,002805 
+time_connect: 0,162625 
+time_appconnect: 0,000000 
+time_pretransfer: 0,162779 
+time_redirect: 0,000000 
+time_starttransfer: 0,910718 
+time_total: 0,910895 
+----------- 
+time_namelookup: 0,002727 
+time_connect: 0,181132 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181258 
+time_redirect: 0,000000 
+time_starttransfer: 0,938123 
+time_total: 0,938308 
+----------- 
+time_namelookup: 0,002925 
+time_connect: 0,179706 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179891 
+time_redirect: 0,000000 
+time_starttransfer: 0,857320 
+time_total: 0,857496 
+----------- 
+time_namelookup: 0,002730 
+time_connect: 0,171604 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171696 
+time_redirect: 0,000000 
+time_starttransfer: 0,932945 
+time_total: 0,933095 
+----------- 
+time_namelookup: 0,002905 
+time_connect: 0,175961 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176210 
+time_redirect: 0,000000 
+time_starttransfer: 0,909586 
+time_total: 0,909794 
+----------- 
+time_namelookup: 0,002640 
+time_connect: 0,178344 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178502 
+time_redirect: 0,000000 
+time_starttransfer: 0,908145 
+time_total: 0,908322 
+----------- 
+time_namelookup: 0,002810 
+time_connect: 0,173505 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173632 
+time_redirect: 0,000000 
+time_starttransfer: 0,911182 
+time_total: 0,911357 
+----------- 
+time_namelookup: 0,002546 
+time_connect: 0,174985 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175114 
+time_redirect: 0,000000 
+time_starttransfer: 0,908375 
+time_total: 0,908548 
+----------- 
+time_namelookup: 0,002459 
+time_connect: 0,195640 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195797 
+time_redirect: 0,000000 
+time_starttransfer: 0,704747 
+time_total: 0,704895 
+----------- 
+time_namelookup: 0,003122 
+time_connect: 0,189561 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189689 
+time_redirect: 0,000000 
+time_starttransfer: 0,968503 
+time_total: 0,968594 
+----------- 
+time_namelookup: 0,002935 
+time_connect: 0,176357 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176513 
+time_redirect: 0,000000 
+time_starttransfer: 0,887746 
+time_total: 0,887843 
+----------- 
+time_namelookup: 0,002680 
+time_connect: 0,273739 
+time_appconnect: 0,000000 
+time_pretransfer: 0,273874 
+time_redirect: 0,000000 
+time_starttransfer: 0,699070 
+time_total: 0,699337 
+----------- 
+time_namelookup: 0,002739 
+time_connect: 0,252866 
+time_appconnect: 0,000000 
+time_pretransfer: 0,253003 
+time_redirect: 0,000000 
+time_starttransfer: 0,743554 
+time_total: 0,743657 
+----------- 
+time_namelookup: 0,002983 
+time_connect: 0,170707 
+time_appconnect: 0,000000 
+time_pretransfer: 0,170782 
+time_redirect: 0,000000 
+time_starttransfer: 0,705791 
+time_total: 0,705908 
+----------- 
+time_namelookup: 0,002740 
+time_connect: 0,184823 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184911 
+time_redirect: 0,000000 
+time_starttransfer: 0,644119 
+time_total: 0,644237 
+----------- 
+time_namelookup: 0,003578 
+time_connect: 0,173478 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173620 
+time_redirect: 0,000000 
+time_starttransfer: 0,577961 
+time_total: 0,578112 
+----------- 
+time_namelookup: 0,002775 
+time_connect: 0,170963 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171167 
+time_redirect: 0,000000 
+time_starttransfer: 0,623008 
+time_total: 0,623196 
+----------- 
+time_namelookup: 0,002961 
+time_connect: 0,178674 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178829 
+time_redirect: 0,000000 
+time_starttransfer: 0,910457 
+time_total: 0,910641 
+----------- 
+time_namelookup: 0,003251 
+time_connect: 0,181665 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181825 
+time_redirect: 0,000000 
+time_starttransfer: 0,589224 
+time_total: 0,589400 
+----------- 
+time_namelookup: 0,002664 
+time_connect: 0,184173 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184329 
+time_redirect: 0,000000 
+time_starttransfer: 0,921802 
+time_total: 0,922009 
+----------- 
+time_namelookup: 0,003190 
+time_connect: 0,189498 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189629 
+time_redirect: 0,000000 
+time_starttransfer: 0,705240 
+time_total: 0,705389 
+----------- 
+time_namelookup: 0,002658 
+time_connect: 0,168882 
+time_appconnect: 0,000000 
+time_pretransfer: 0,169020 
+time_redirect: 0,000000 
+time_starttransfer: 0,880439 
+time_total: 0,880626 
+----------- 
+time_namelookup: 0,002431 
+time_connect: 0,183358 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183539 
+time_redirect: 0,000000 
+time_starttransfer: 0,923842 
+time_total: 0,924057 
+----------- 
+time_namelookup: 0,002830 
+time_connect: 0,192867 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193007 
+time_redirect: 0,000000 
+time_starttransfer: 0,923364 
+time_total: 0,923513 
+----------- 
+time_namelookup: 0,002810 
+time_connect: 0,180678 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180837 
+time_redirect: 0,000000 
+time_starttransfer: 0,909373 
+time_total: 0,909550 
+----------- 
+time_namelookup: 0,002961 
+time_connect: 1,168221 
+time_appconnect: 0,000000 
+time_pretransfer: 1,168346 
+time_redirect: 0,000000 
+time_starttransfer: 1,832060 
+time_total: 1,832243 
+----------- 
+time_namelookup: 0,002882 
+time_connect: 0,186635 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186793 
+time_redirect: 0,000000 
+time_starttransfer: 0,601222 
+time_total: 0,601399 
+----------- 
+time_namelookup: 0,002954 
+time_connect: 0,173007 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173190 
+time_redirect: 0,000000 
+time_starttransfer: 0,606303 
+time_total: 0,606451 
+----------- 
+time_namelookup: 0,002787 
+time_connect: 0,176987 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177156 
+time_redirect: 0,000000 
+time_starttransfer: 0,814100 
+time_total: 0,814212 
+----------- 
+time_namelookup: 0,002900 
+time_connect: 0,241791 
+time_appconnect: 0,000000 
+time_pretransfer: 0,241924 
+time_redirect: 0,000000 
+time_starttransfer: 0,968783 
+time_total: 0,968924 
+----------- 
+time_namelookup: 0,004309 
+time_connect: 0,187696 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187823 
+time_redirect: 0,000000 
+time_starttransfer: 0,906475 
+time_total: 0,906592 
+----------- 
+time_namelookup: 0,002715 
+time_connect: 0,186219 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186344 
+time_redirect: 0,000000 
+time_starttransfer: 0,915280 
+time_total: 0,915402 
+----------- 
+time_namelookup: 0,003017 
+time_connect: 0,175555 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175711 
+time_redirect: 0,000000 
+time_starttransfer: 0,818064 
+time_total: 0,818170 
+----------- 
+time_namelookup: 0,002723 
+time_connect: 0,186055 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186148 
+time_redirect: 0,000000 
+time_starttransfer: 0,630187 
+time_total: 0,630287 
+----------- 
+time_namelookup: 0,002496 
+time_connect: 0,186122 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186278 
+time_redirect: 0,000000 
+time_starttransfer: 0,603508 
+time_total: 0,603656 
+----------- 
+time_namelookup: 0,002749 
+time_connect: 0,183062 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183161 
+time_redirect: 0,000000 
+time_starttransfer: 0,599788 
+time_total: 0,600012 
+----------- 
+time_namelookup: 0,002721 
+time_connect: 0,245650 
+time_appconnect: 0,000000 
+time_pretransfer: 0,245793 
+time_redirect: 0,000000 
+time_starttransfer: 1,004430 
+time_total: 1,004534 
+----------- 
+time_namelookup: 0,002401 
+time_connect: 0,200161 
+time_appconnect: 0,000000 
+time_pretransfer: 0,200286 
+time_redirect: 0,000000 
+time_starttransfer: 0,914117 
+time_total: 0,914269 
+----------- 
+time_namelookup: 0,002658 
+time_connect: 0,181318 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181468 
+time_redirect: 0,000000 
+time_starttransfer: 0,906264 
+time_total: 0,906461 
+----------- 
+time_namelookup: 0,002869 
+time_connect: 0,175057 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175274 
+time_redirect: 0,000000 
+time_starttransfer: 0,909441 
+time_total: 0,909617 
+----------- 
+time_namelookup: 0,002546 
+time_connect: 0,184990 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185148 
+time_redirect: 0,000000 
+time_starttransfer: 0,706116 
+time_total: 0,706220 
+----------- 
+time_namelookup: 0,002922 
+time_connect: 0,186347 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186573 
+time_redirect: 0,000000 
+time_starttransfer: 0,620021 
+time_total: 0,620183 
+----------- 
+time_namelookup: 0,002930 
+time_connect: 0,185173 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185343 
+time_redirect: 0,000000 
+time_starttransfer: 1,020159 
+time_total: 1,020333 
+----------- 
+time_namelookup: 0,002987 
+time_connect: 0,185027 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185155 
+time_redirect: 0,000000 
+time_starttransfer: 0,849905 
+time_total: 0,850032 
+----------- 
+time_namelookup: 0,003124 
+time_connect: 0,179680 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179894 
+time_redirect: 0,000000 
+time_starttransfer: 0,588150 
+time_total: 0,588300 
+----------- 
+time_namelookup: 0,002529 
+time_connect: 0,186789 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186943 
+time_redirect: 0,000000 
+time_starttransfer: 0,942279 
+time_total: 0,942452 
+----------- 
+time_namelookup: 0,004297 
+time_connect: 0,187172 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187302 
+time_redirect: 0,000000 
+time_starttransfer: 0,908745 
+time_total: 0,908947 
+----------- 
+time_namelookup: 0,002566 
+time_connect: 0,184966 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185095 
+time_redirect: 0,000000 
+time_starttransfer: 1,023477 
+time_total: 1,023597 
+----------- 
+time_namelookup: 0,002725 
+time_connect: 0,260187 
+time_appconnect: 0,000000 
+time_pretransfer: 0,260341 
+time_redirect: 0,000000 
+time_starttransfer: 1,044882 
+time_total: 1,045018 
+----------- 
+time_namelookup: 0,003037 
+time_connect: 1,189112 
+time_appconnect: 0,000000 
+time_pretransfer: 1,189181 
+time_redirect: 0,000000 
+time_starttransfer: 1,863520 
+time_total: 1,863611 
+----------- 
+time_namelookup: 0,002737 
+time_connect: 0,175841 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175996 
+time_redirect: 0,000000 
+time_starttransfer: 0,799804 
+time_total: 0,799919 
+----------- 
+time_namelookup: 0,002882 
+time_connect: 0,194536 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194628 
+time_redirect: 0,000000 
+time_starttransfer: 0,848516 
+time_total: 0,848670 
+----------- 
+time_namelookup: 0,003713 
+time_connect: 0,179504 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179642 
+time_redirect: 0,000000 
+time_starttransfer: 0,828588 
+time_total: 0,828737 
+----------- 
+time_namelookup: 0,002726 
+time_connect: 0,181828 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181954 
+time_redirect: 0,000000 
+time_starttransfer: 0,878210 
+time_total: 0,878390 
+----------- 
+time_namelookup: 0,002661 
+time_connect: 0,185338 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185569 
+time_redirect: 0,000000 
+time_starttransfer: 0,705077 
+time_total: 0,705287 
+----------- 
+time_namelookup: 0,002676 
+time_connect: 0,179940 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180132 
+time_redirect: 0,000000 
+time_starttransfer: 0,600424 
+time_total: 0,600617 
+----------- 
+time_namelookup: 0,002837 
+time_connect: 0,180407 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180561 
+time_redirect: 0,000000 
+time_starttransfer: 0,809332 
+time_total: 0,809490 
+----------- 
+time_namelookup: 0,002803 
+time_connect: 0,188220 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188376 
+time_redirect: 0,000000 
+time_starttransfer: 0,705647 
+time_total: 0,705831 
+----------- 
+time_namelookup: 0,002747 
+time_connect: 0,175114 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175269 
+time_redirect: 0,000000 
+time_starttransfer: 0,702318 
+time_total: 0,702472 
+----------- 
+time_namelookup: 0,003051 
+time_connect: 0,185234 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185373 
+time_redirect: 0,000000 
+time_starttransfer: 1,152302 
+time_total: 1,152477 
+----------- 
+time_namelookup: 0,002570 
+time_connect: 0,196803 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196955 
+time_redirect: 0,000000 
+time_starttransfer: 0,898520 
+time_total: 0,898754 
+----------- 
+time_namelookup: 0,002772 
+time_connect: 0,180376 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180595 
+time_redirect: 0,000000 
+time_starttransfer: 0,878264 
+time_total: 0,878476 
+----------- 
+time_namelookup: 0,002765 
+time_connect: 0,174853 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174981 
+time_redirect: 0,000000 
+time_starttransfer: 0,702962 
+time_total: 0,703166 
+----------- 
+time_namelookup: 0,002645 
+time_connect: 0,166989 
+time_appconnect: 0,000000 
+time_pretransfer: 0,167173 
+time_redirect: 0,000000 
+time_starttransfer: 0,809954 
+time_total: 0,810166 
+----------- 
+time_namelookup: 0,002535 
+time_connect: 0,178853 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179016 
+time_redirect: 0,000000 
+time_starttransfer: 0,852663 
+time_total: 0,852888 
+----------- 
+time_namelookup: 0,002710 
+time_connect: 0,184319 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184448 
+time_redirect: 0,000000 
+time_starttransfer: 0,864371 
+time_total: 0,864488 
+----------- 
+time_namelookup: 0,003107 
+time_connect: 0,367257 
+time_appconnect: 0,000000 
+time_pretransfer: 0,367442 
+time_redirect: 0,000000 
+time_starttransfer: 0,900223 
+time_total: 0,900360 
+----------- 
+time_namelookup: 0,004063 
+time_connect: 0,253321 
+time_appconnect: 0,000000 
+time_pretransfer: 0,253389 
+time_redirect: 0,000000 
+time_starttransfer: 0,712693 
+time_total: 0,712807 
+----------- 
+time_namelookup: 0,002929 
+time_connect: 0,328954 
+time_appconnect: 0,000000 
+time_pretransfer: 0,329108 
+time_redirect: 0,000000 
+time_starttransfer: 1,061664 
+time_total: 1,061777 
+----------- 
+time_namelookup: 0,002987 
+time_connect: 0,378601 
+time_appconnect: 0,000000 
+time_pretransfer: 0,378701 
+time_redirect: 0,000000 
+time_starttransfer: 1,153989 
+time_total: 1,154143 
+----------- 
+time_namelookup: 0,002882 
+time_connect: 0,178662 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178792 
+time_redirect: 0,000000 
+time_starttransfer: 1,280238 
+time_total: 1,280394 
+----------- 
+time_namelookup: 0,003388 
+time_connect: 0,243599 
+time_appconnect: 0,000000 
+time_pretransfer: 0,243684 
+time_redirect: 0,000000 
+time_starttransfer: 0,662417 
+time_total: 0,662541 
+----------- 
+time_namelookup: 0,002761 
+time_connect: 0,257171 
+time_appconnect: 0,000000 
+time_pretransfer: 0,257270 
+time_redirect: 0,000000 
+time_starttransfer: 0,750012 
+time_total: 0,750170 
+----------- 
+time_namelookup: 0,002567 
+time_connect: 0,184349 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184501 
+time_redirect: 0,000000 
+time_starttransfer: 0,831338 
+time_total: 0,831513 
+----------- 
+time_namelookup: 0,002664 
+time_connect: 0,178339 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178553 
+time_redirect: 0,000000 
+time_starttransfer: 0,602627 
+time_total: 0,602818 
+----------- 
+time_namelookup: 0,002723 
+time_connect: 0,179449 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179607 
+time_redirect: 0,000000 
+time_starttransfer: 0,830355 
+time_total: 0,830566 
+----------- 
+time_namelookup: 0,002720 
+time_connect: 0,180612 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180734 
+time_redirect: 0,000000 
+time_starttransfer: 0,898670 
+time_total: 0,898843 
+----------- 
+time_namelookup: 0,002639 
+time_connect: 0,187137 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187315 
+time_redirect: 0,000000 
+time_starttransfer: 0,912108 
+time_total: 0,912368 
+----------- 
+time_namelookup: 0,002737 
+time_connect: 1,160474 
+time_appconnect: 0,000000 
+time_pretransfer: 1,160603 
+time_redirect: 0,000000 
+time_starttransfer: 1,874699 
+time_total: 1,874868 
+----------- 
+time_namelookup: 0,002598 
+time_connect: 0,259804 
+time_appconnect: 0,000000 
+time_pretransfer: 0,259955 
+time_redirect: 0,000000 
+time_starttransfer: 0,693747 
+time_total: 0,693939 
+----------- 
+time_namelookup: 0,002700 
+time_connect: 0,328717 
+time_appconnect: 0,000000 
+time_pretransfer: 0,328818 
+time_redirect: 0,000000 
+time_starttransfer: 1,616087 
+time_total: 1,616292 
+----------- 
+time_namelookup: 0,003084 
+time_connect: 0,177344 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177494 
+time_redirect: 0,000000 
+time_starttransfer: 0,680360 
+time_total: 0,680514 
+----------- 
+time_namelookup: 0,003204 
+time_connect: 0,177728 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177873 
+time_redirect: 0,000000 
+time_starttransfer: 0,704184 
+time_total: 0,704368 
+----------- 
+time_namelookup: 0,002826 
+time_connect: 0,189970 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190101 
+time_redirect: 0,000000 
+time_starttransfer: 0,838449 
+time_total: 0,838675 
+----------- 
+time_namelookup: 0,002903 
+time_connect: 0,187831 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187958 
+time_redirect: 0,000000 
+time_starttransfer: 0,597129 
+time_total: 0,597311 
+----------- 
+time_namelookup: 0,002707 
+time_connect: 0,190670 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190873 
+time_redirect: 0,000000 
+time_starttransfer: 1,394387 
+time_total: 1,394566 
+----------- 
+time_namelookup: 0,002722 
+time_connect: 0,185249 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185417 
+time_redirect: 0,000000 
+time_starttransfer: 0,595147 
+time_total: 0,595477 
+----------- 
+time_namelookup: 0,002775 
+time_connect: 0,177144 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177270 
+time_redirect: 0,000000 
+time_starttransfer: 0,903266 
+time_total: 0,903518 
+----------- 
+time_namelookup: 0,003075 
+time_connect: 0,179238 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179372 
+time_redirect: 0,000000 
+time_starttransfer: 0,614675 
+time_total: 0,614780 
+----------- 
+time_namelookup: 0,002766 
+time_connect: 0,177086 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177217 
+time_redirect: 0,000000 
+time_starttransfer: 0,573055 
+time_total: 0,573219 
+----------- 
+time_namelookup: 0,002717 
+time_connect: 1,158667 
+time_appconnect: 0,000000 
+time_pretransfer: 1,158824 
+time_redirect: 0,000000 
+time_starttransfer: 1,585844 
+time_total: 1,586014 
+----------- 
+time_namelookup: 0,002876 
+time_connect: 0,173721 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173974 
+time_redirect: 0,000000 
+time_starttransfer: 0,876510 
+time_total: 0,876680 
+----------- 
+time_namelookup: 0,002844 
+time_connect: 0,167806 
+time_appconnect: 0,000000 
+time_pretransfer: 0,168009 
+time_redirect: 0,000000 
+time_starttransfer: 0,573396 
+time_total: 0,573543 
+----------- 
+time_namelookup: 0,002958 
+time_connect: 0,180698 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180852 
+time_redirect: 0,000000 
+time_starttransfer: 0,940317 
+time_total: 0,940486 
+----------- 
+time_namelookup: 0,003197 
+time_connect: 0,188480 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188675 
+time_redirect: 0,000000 
+time_starttransfer: 0,612179 
+time_total: 0,612326 
+----------- 
+time_namelookup: 0,002466 
+time_connect: 0,185147 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185275 
+time_redirect: 0,000000 
+time_starttransfer: 0,870664 
+time_total: 0,870772 
+----------- 
+time_namelookup: 0,002665 
+time_connect: 0,330673 
+time_appconnect: 0,000000 
+time_pretransfer: 0,330856 
+time_redirect: 0,000000 
+time_starttransfer: 0,970148 
+time_total: 0,970242 
+----------- 
+time_namelookup: 0,002881 
+time_connect: 0,419492 
+time_appconnect: 0,000000 
+time_pretransfer: 0,419559 
+time_redirect: 0,000000 
+time_starttransfer: 0,851599 
+time_total: 0,851691 
+----------- 
+time_namelookup: 0,003230 
+time_connect: 0,306963 
+time_appconnect: 0,000000 
+time_pretransfer: 0,307038 
+time_redirect: 0,000000 
+time_starttransfer: 0,959531 
+time_total: 0,959733 
+----------- 
+time_namelookup: 0,002878 
+time_connect: 0,310346 
+time_appconnect: 0,000000 
+time_pretransfer: 0,310431 
+time_redirect: 0,000000 
+time_starttransfer: 1,008322 
+time_total: 1,008480 
+----------- 
+time_namelookup: 0,003035 
+time_connect: 0,191344 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191492 
+time_redirect: 0,000000 
+time_starttransfer: 1,185069 
+time_total: 1,185171 
+----------- 
+time_namelookup: 0,002667 
+time_connect: 0,179988 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180155 
+time_redirect: 0,000000 
+time_starttransfer: 0,911601 
+time_total: 0,911772 
+----------- 
+time_namelookup: 0,002706 
+time_connect: 0,187150 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187276 
+time_redirect: 0,000000 
+time_starttransfer: 0,909778 
+time_total: 0,909883 
+----------- 
+time_namelookup: 0,002548 
+time_connect: 0,172750 
+time_appconnect: 0,000000 
+time_pretransfer: 0,172985 
+time_redirect: 0,000000 
+time_starttransfer: 0,912255 
+time_total: 0,912406 
+----------- 
+time_namelookup: 0,003316 
+time_connect: 0,190006 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190117 
+time_redirect: 0,000000 
+time_starttransfer: 0,621701 
+time_total: 0,621889 
+----------- 
+time_namelookup: 0,002801 
+time_connect: 0,194801 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195034 
+time_redirect: 0,000000 
+time_starttransfer: 0,684910 
+time_total: 0,685140 
+----------- 
+time_namelookup: 0,002784 
+time_connect: 0,174559 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174747 
+time_redirect: 0,000000 
+time_starttransfer: 0,704707 
+time_total: 0,704867 
+----------- 
+time_namelookup: 0,003739 
+time_connect: 0,182899 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183038 
+time_redirect: 0,000000 
+time_starttransfer: 0,599670 
+time_total: 0,599888 
+----------- 
+time_namelookup: 0,002522 
+time_connect: 0,177493 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177649 
+time_redirect: 0,000000 
+time_starttransfer: 0,590397 
+time_total: 0,590624 
+----------- 
+time_namelookup: 0,002788 
+time_connect: 0,186456 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186585 
+time_redirect: 0,000000 
+time_starttransfer: 0,832837 
+time_total: 0,833051 
+----------- 
+time_namelookup: 0,002947 
+time_connect: 0,181193 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181321 
+time_redirect: 0,000000 
+time_starttransfer: 0,827827 
+time_total: 0,828009 
+----------- 
+time_namelookup: 0,003066 
+time_connect: 0,176623 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176807 
+time_redirect: 0,000000 
+time_starttransfer: 0,667198 
+time_total: 0,667405 
+----------- 
+time_namelookup: 0,002663 
+time_connect: 0,248504 
+time_appconnect: 0,000000 
+time_pretransfer: 0,248833 
+time_redirect: 0,000000 
+time_starttransfer: 0,920410 
+time_total: 0,920615 
+----------- 
+time_namelookup: 0,004424 
+time_connect: 0,192062 
+time_appconnect: 0,000000 
+time_pretransfer: 0,192322 
+time_redirect: 0,000000 
+time_starttransfer: 0,896150 
+time_total: 0,896302 
+----------- 
+time_namelookup: 0,002610 
+time_connect: 0,226027 
+time_appconnect: 0,000000 
+time_pretransfer: 0,226113 
+time_redirect: 0,000000 
+time_starttransfer: 0,917658 
+time_total: 0,917773 
+----------- 
+time_namelookup: 0,002889 
+time_connect: 0,195565 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195688 
+time_redirect: 0,000000 
+time_starttransfer: 0,934323 
+time_total: 0,934473 
+----------- 
+time_namelookup: 0,002777 
+time_connect: 0,278587 
+time_appconnect: 0,000000 
+time_pretransfer: 0,278659 
+time_redirect: 0,000000 
+time_starttransfer: 1,047134 
+time_total: 1,047233 
+----------- 
+time_namelookup: 0,002679 
+time_connect: 0,195327 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195481 
+time_redirect: 0,000000 
+time_starttransfer: 0,861602 
+time_total: 0,861764 
+----------- 
+time_namelookup: 0,002720 
+time_connect: 0,183113 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183242 
+time_redirect: 0,000000 
+time_starttransfer: 0,685580 
+time_total: 0,685732 
+----------- 
+time_namelookup: 0,002820 
+time_connect: 0,250336 
+time_appconnect: 0,000000 
+time_pretransfer: 0,250476 
+time_redirect: 0,000000 
+time_starttransfer: 0,657703 
+time_total: 0,657886 
+----------- 
+time_namelookup: 0,002859 
+time_connect: 0,181685 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181776 
+time_redirect: 0,000000 
+time_starttransfer: 0,653042 
+time_total: 0,653432 
+----------- 
+time_namelookup: 0,002924 
+time_connect: 0,175654 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175785 
+time_redirect: 0,000000 
+time_starttransfer: 0,825511 
+time_total: 0,825656 
+----------- 
+time_namelookup: 0,002532 
+time_connect: 0,197086 
+time_appconnect: 0,000000 
+time_pretransfer: 0,197306 
+time_redirect: 0,000000 
+time_starttransfer: 0,684238 
+time_total: 0,684432 
+----------- 
+time_namelookup: 0,003221 
+time_connect: 0,176967 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177121 
+time_redirect: 0,000000 
+time_starttransfer: 0,604221 
+time_total: 0,604455 
+----------- 
+time_namelookup: 0,002959 
+time_connect: 0,181044 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181197 
+time_redirect: 0,000000 
+time_starttransfer: 1,012039 
+time_total: 1,012152 
+----------- 
+time_namelookup: 0,002523 
+time_connect: 0,186584 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186742 
+time_redirect: 0,000000 
+time_starttransfer: 0,905796 
+time_total: 0,905929 
+----------- 
+time_namelookup: 0,002917 
+time_connect: 0,189315 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189453 
+time_redirect: 0,000000 
+time_starttransfer: 0,612172 
+time_total: 0,612334 
+----------- 
+time_namelookup: 0,003040 
+time_connect: 0,180486 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180624 
+time_redirect: 0,000000 
+time_starttransfer: 0,899468 
+time_total: 0,899723 
+----------- 
+time_namelookup: 0,003115 
+time_connect: 0,196662 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196848 
+time_redirect: 0,000000 
+time_starttransfer: 0,912188 
+time_total: 0,912344 
+----------- 
+time_namelookup: 0,002762 
+time_connect: 0,179882 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180036 
+time_redirect: 0,000000 
+time_starttransfer: 0,880475 
+time_total: 0,880671 
+----------- 
+time_namelookup: 0,002786 
+time_connect: 0,186370 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186664 
+time_redirect: 0,000000 
+time_starttransfer: 0,628226 
+time_total: 0,628430 
+----------- 
+time_namelookup: 0,002553 
+time_connect: 0,184549 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184676 
+time_redirect: 0,000000 
+time_starttransfer: 0,909086 
+time_total: 0,909348 
+----------- 
+time_namelookup: 0,002463 
+time_connect: 0,189319 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189458 
+time_redirect: 0,000000 
+time_starttransfer: 0,841800 
+time_total: 0,842019 
+----------- 
+time_namelookup: 0,002585 
+time_connect: 0,186895 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187065 
+time_redirect: 0,000000 
+time_starttransfer: 0,735095 
+time_total: 0,735190 
+----------- 
+time_namelookup: 0,002845 
+time_connect: 0,238013 
+time_appconnect: 0,000000 
+time_pretransfer: 0,238137 
+time_redirect: 0,000000 
+time_starttransfer: 0,692705 
+time_total: 0,692818 
+----------- 
+time_namelookup: 0,002583 
+time_connect: 0,280269 
+time_appconnect: 0,000000 
+time_pretransfer: 0,280352 
+time_redirect: 0,000000 
+time_starttransfer: 0,975545 
+time_total: 0,975664 
+----------- 
+time_namelookup: 0,002766 
+time_connect: 0,265483 
+time_appconnect: 0,000000 
+time_pretransfer: 0,265557 
+time_redirect: 0,000000 
+time_starttransfer: 0,938133 
+time_total: 0,938282 
+----------- 
+time_namelookup: 0,003017 
+time_connect: 0,285246 
+time_appconnect: 0,000000 
+time_pretransfer: 0,285375 
+time_redirect: 0,000000 
+time_starttransfer: 0,971622 
+time_total: 0,971777 
+----------- 
+time_namelookup: 0,002699 
+time_connect: 0,178157 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178245 
+time_redirect: 0,000000 
+time_starttransfer: 0,602993 
+time_total: 0,603169 
+----------- 
+time_namelookup: 0,002638 
+time_connect: 0,185190 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185322 
+time_redirect: 0,000000 
+time_starttransfer: 0,600180 
+time_total: 0,600296 
+----------- 
+time_namelookup: 0,002620 
+time_connect: 0,176888 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177197 
+time_redirect: 0,000000 
+time_starttransfer: 0,911532 
+time_total: 0,911924 
+----------- 
+time_namelookup: 0,003300 
+time_connect: 0,185963 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186088 
+time_redirect: 0,000000 
+time_starttransfer: 0,603736 
+time_total: 0,603921 
+----------- 
+time_namelookup: 0,002788 
+time_connect: 0,178395 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178617 
+time_redirect: 0,000000 
+time_starttransfer: 0,903021 
+time_total: 0,903205 
+----------- 
+time_namelookup: 0,003146 
+time_connect: 0,171118 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171273 
+time_redirect: 0,000000 
+time_starttransfer: 0,604360 
+time_total: 0,604508 
+----------- 
+time_namelookup: 0,002952 
+time_connect: 0,189876 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190032 
+time_redirect: 0,000000 
+time_starttransfer: 0,653710 
+time_total: 0,653841 
+----------- 
+time_namelookup: 0,002691 
+time_connect: 0,194703 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194925 
+time_redirect: 0,000000 
+time_starttransfer: 0,654360 
+time_total: 0,654599 
+----------- 
+time_namelookup: 0,003595 
+time_connect: 0,196980 
+time_appconnect: 0,000000 
+time_pretransfer: 0,197119 
+time_redirect: 0,000000 
+time_starttransfer: 0,917689 
+time_total: 0,917895 
+----------- 
+time_namelookup: 0,003021 
+time_connect: 0,179177 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179332 
+time_redirect: 0,000000 
+time_starttransfer: 0,883688 
+time_total: 0,883868 
+----------- 
+time_namelookup: 0,002988 
+time_connect: 0,183005 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183156 
+time_redirect: 0,000000 
+time_starttransfer: 0,577323 
+time_total: 0,577556 
+----------- 
+time_namelookup: 0,002627 
+time_connect: 0,196479 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196708 
+time_redirect: 0,000000 
+time_starttransfer: 0,618090 
+time_total: 0,618257 
+----------- 
+time_namelookup: 0,002689 
+time_connect: 0,179360 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179501 
+time_redirect: 0,000000 
+time_starttransfer: 0,900985 
+time_total: 0,901130 
+----------- 
+time_namelookup: 0,002800 
+time_connect: 0,170761 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171071 
+time_redirect: 0,000000 
+time_starttransfer: 0,797149 
+time_total: 0,797304 
+----------- 
+time_namelookup: 0,002532 
+time_connect: 0,180887 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181018 
+time_redirect: 0,000000 
+time_starttransfer: 0,848942 
+time_total: 0,849163 
+----------- 
+time_namelookup: 0,002980 
+time_connect: 0,186355 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186509 
+time_redirect: 0,000000 
+time_starttransfer: 0,988991 
+time_total: 0,989137 
+----------- 
+time_namelookup: 0,080514 
+time_connect: 0,257539 
+time_appconnect: 0,000000 
+time_pretransfer: 0,257692 
+time_redirect: 0,000000 
+time_starttransfer: 0,695953 
+time_total: 0,696049 
+----------- 
+time_namelookup: 0,002643 
+time_connect: 0,263259 
+time_appconnect: 0,000000 
+time_pretransfer: 0,263344 
+time_redirect: 0,000000 
+time_starttransfer: 0,804406 
+time_total: 0,804561 
+----------- 
+time_namelookup: 0,003055 
+time_connect: 0,183046 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183174 
+time_redirect: 0,000000 
+time_starttransfer: 0,917067 
+time_total: 0,917186 
+----------- 
+time_namelookup: 0,002743 
+time_connect: 0,179065 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179191 
+time_redirect: 0,000000 
+time_starttransfer: 0,600580 
+time_total: 0,600680 
+----------- 
+time_namelookup: 0,002822 
+time_connect: 0,183484 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183703 
+time_redirect: 0,000000 
+time_starttransfer: 0,601780 
+time_total: 0,601955 
+----------- 
+time_namelookup: 0,002903 
+time_connect: 0,179378 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179547 
+time_redirect: 0,000000 
+time_starttransfer: 0,640897 
+time_total: 0,641069 
+----------- 
+time_namelookup: 0,002603 
+time_connect: 0,170145 
+time_appconnect: 0,000000 
+time_pretransfer: 0,170266 
+time_redirect: 0,000000 
+time_starttransfer: 0,591430 
+time_total: 0,591671 
+----------- 
+time_namelookup: 0,002698 
+time_connect: 0,195086 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195240 
+time_redirect: 0,000000 
+time_starttransfer: 0,614787 
+time_total: 0,614961 
+----------- 
+time_namelookup: 0,002700 
+time_connect: 0,179068 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179199 
+time_redirect: 0,000000 
+time_starttransfer: 0,701738 
+time_total: 0,701959 
+----------- 
+time_namelookup: 0,002857 
+time_connect: 0,195794 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195922 
+time_redirect: 0,000000 
+time_starttransfer: 0,704826 
+time_total: 0,705016 
+----------- 
+time_namelookup: 0,002846 
+time_connect: 0,189637 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189733 
+time_redirect: 0,000000 
+time_starttransfer: 0,603667 
+time_total: 0,603876 
+----------- 
+time_namelookup: 0,002694 
+time_connect: 0,194662 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194820 
+time_redirect: 0,000000 
+time_starttransfer: 0,703856 
+time_total: 0,704065 
+----------- 
+time_namelookup: 0,002506 
+time_connect: 0,190078 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190171 
+time_redirect: 0,000000 
+time_starttransfer: 0,612284 
+time_total: 0,612486 
+----------- 
+time_namelookup: 0,002842 
+time_connect: 0,196347 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196574 
+time_redirect: 0,000000 
+time_starttransfer: 0,699884 
+time_total: 0,699997 
+----------- 
+time_namelookup: 0,002897 
+time_connect: 0,190198 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190378 
+time_redirect: 0,000000 
+time_starttransfer: 0,623167 
+time_total: 0,623412 
+----------- 
+time_namelookup: 0,002564 
+time_connect: 0,195971 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196056 
+time_redirect: 0,000000 
+time_starttransfer: 0,675837 
+time_total: 0,676005 
+----------- 
+time_namelookup: 0,002685 
+time_connect: 0,190728 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190855 
+time_redirect: 0,000000 
+time_starttransfer: 0,856880 
+time_total: 0,857065 
+----------- 
+time_namelookup: 0,002734 
+time_connect: 0,185099 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185265 
+time_redirect: 0,000000 
+time_starttransfer: 0,855926 
+time_total: 0,856105 
+----------- 
+time_namelookup: 0,002917 
+time_connect: 0,176026 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176184 
+time_redirect: 0,000000 
+time_starttransfer: 0,648433 
+time_total: 0,648590 
+----------- 
+time_namelookup: 0,002654 
+time_connect: 0,185358 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185519 
+time_redirect: 0,000000 
+time_starttransfer: 0,658255 
+time_total: 0,658433 
+----------- 
+time_namelookup: 0,002652 
+time_connect: 0,174386 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174517 
+time_redirect: 0,000000 
+time_starttransfer: 0,909567 
+time_total: 0,909815 
+----------- 
+time_namelookup: 0,002836 
+time_connect: 0,168475 
+time_appconnect: 0,000000 
+time_pretransfer: 0,168549 
+time_redirect: 0,000000 
+time_starttransfer: 0,661593 
+time_total: 0,661713 
+----------- 
+time_namelookup: 0,002608 
+time_connect: 0,242563 
+time_appconnect: 0,000000 
+time_pretransfer: 0,242694 
+time_redirect: 0,000000 
+time_starttransfer: 0,669304 
+time_total: 0,669423 
+----------- 
+time_namelookup: 0,002409 
+time_connect: 0,214290 
+time_appconnect: 0,000000 
+time_pretransfer: 0,214369 
+time_redirect: 0,000000 
+time_starttransfer: 0,900471 
+time_total: 0,900570 
+----------- 
+time_namelookup: 0,002798 
+time_connect: 0,269647 
+time_appconnect: 0,000000 
+time_pretransfer: 0,269810 
+time_redirect: 0,000000 
+time_starttransfer: 0,990045 
+time_total: 0,990142 
+----------- 
+time_namelookup: 0,002812 
+time_connect: 0,196117 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196313 
+time_redirect: 0,000000 
+time_starttransfer: 0,955601 
+time_total: 0,955707 
+----------- 
+time_namelookup: 0,003334 
+time_connect: 0,179653 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179787 
+time_redirect: 0,000000 
+time_starttransfer: 0,871253 
+time_total: 0,871460 
+----------- 
+time_namelookup: 0,002505 
+time_connect: 0,189027 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189169 
+time_redirect: 0,000000 
+time_starttransfer: 0,908743 
+time_total: 0,908901 
+----------- 
+time_namelookup: 0,002590 
+time_connect: 0,177942 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178099 
+time_redirect: 0,000000 
+time_starttransfer: 0,573599 
+time_total: 0,573784 
+----------- 
+time_namelookup: 0,002853 
+time_connect: 0,174083 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174235 
+time_redirect: 0,000000 
+time_starttransfer: 0,937377 
+time_total: 0,937521 
+----------- 
+time_namelookup: 0,002663 
+time_connect: 0,177354 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177505 
+time_redirect: 0,000000 
+time_starttransfer: 0,911560 
+time_total: 0,911732 
+----------- 
+time_namelookup: 0,002791 
+time_connect: 0,186195 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186325 
+time_redirect: 0,000000 
+time_starttransfer: 0,701574 
+time_total: 0,701758 
+----------- 
+time_namelookup: 0,002592 
+time_connect: 0,181149 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181225 
+time_redirect: 0,000000 
+time_starttransfer: 0,817976 
+time_total: 0,818126 
+----------- 
+time_namelookup: 0,003027 
+time_connect: 0,179534 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179690 
+time_redirect: 0,000000 
+time_starttransfer: 0,898553 
+time_total: 0,898706 
+----------- 
+time_namelookup: 0,002984 
+time_connect: 0,180493 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180584 
+time_redirect: 0,000000 
+time_starttransfer: 0,820516 
+time_total: 0,820724 
+----------- 
+time_namelookup: 0,002771 
+time_connect: 0,195859 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196013 
+time_redirect: 0,000000 
+time_starttransfer: 0,689664 
+time_total: 0,689882 
+----------- 
+time_namelookup: 0,002781 
+time_connect: 0,191519 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191671 
+time_redirect: 0,000000 
+time_starttransfer: 0,843009 
+time_total: 0,843206 
+----------- 
+time_namelookup: 0,002774 
+time_connect: 0,186420 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186551 
+time_redirect: 0,000000 
+time_starttransfer: 0,846619 
+time_total: 0,846793 
+----------- 
+time_namelookup: 0,003074 
+time_connect: 0,176820 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176948 
+time_redirect: 0,000000 
+time_starttransfer: 0,825795 
+time_total: 0,825942 
+----------- 
+time_namelookup: 0,002449 
+time_connect: 0,187589 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187720 
+time_redirect: 0,000000 
+time_starttransfer: 0,605521 
+time_total: 0,605716 
+----------- 
+time_namelookup: 0,002698 
+time_connect: 0,179840 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179967 
+time_redirect: 0,000000 
+time_starttransfer: 1,033859 
+time_total: 1,033954 
+----------- 
+time_namelookup: 0,002859 
+time_connect: 0,247902 
+time_appconnect: 0,000000 
+time_pretransfer: 0,247979 
+time_redirect: 0,000000 
+time_starttransfer: 0,684472 
+time_total: 0,684697 
+----------- 
+time_namelookup: 0,002679 
+time_connect: 0,186572 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186737 
+time_redirect: 0,000000 
+time_starttransfer: 0,920677 
+time_total: 0,920795 
+----------- 
+time_namelookup: 0,003004 
+time_connect: 0,185335 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185466 
+time_redirect: 0,000000 
+time_starttransfer: 0,660212 
+time_total: 0,660322 
+----------- 
+time_namelookup: 0,002844 
+time_connect: 0,302486 
+time_appconnect: 0,000000 
+time_pretransfer: 0,302573 
+time_redirect: 0,000000 
+time_starttransfer: 0,778759 
+time_total: 0,778875 
+----------- 
+time_namelookup: 0,002896 
+time_connect: 0,302737 
+time_appconnect: 0,000000 
+time_pretransfer: 0,302931 
+time_redirect: 0,000000 
+time_starttransfer: 0,980570 
+time_total: 0,980728 
+----------- 
+time_namelookup: 0,003333 
+time_connect: 0,179614 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179751 
+time_redirect: 0,000000 
+time_starttransfer: 1,319327 
+time_total: 1,319533 
+----------- 
+time_namelookup: 0,002971 
+time_connect: 0,181623 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181777 
+time_redirect: 0,000000 
+time_starttransfer: 0,604409 
+time_total: 0,604602 
+----------- 
+time_namelookup: 0,002732 
+time_connect: 0,178588 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178742 
+time_redirect: 0,000000 
+time_starttransfer: 0,909028 
+time_total: 0,909204 
+----------- 
+time_namelookup: 0,002860 
+time_connect: 0,181061 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181222 
+time_redirect: 0,000000 
+time_starttransfer: 0,703557 
+time_total: 0,703783 
+----------- 
+time_namelookup: 0,002788 
+time_connect: 0,181514 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181671 
+time_redirect: 0,000000 
+time_starttransfer: 0,600791 
+time_total: 0,601000 
+----------- 
+time_namelookup: 0,002654 
+time_connect: 0,178902 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179093 
+time_redirect: 0,000000 
+time_starttransfer: 0,846805 
+time_total: 0,847082 
+----------- 
+time_namelookup: 0,002689 
+time_connect: 0,189682 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189789 
+time_redirect: 0,000000 
+time_starttransfer: 0,870224 
+time_total: 0,870375 
+----------- 
+time_namelookup: 0,003312 
+time_connect: 0,178259 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178395 
+time_redirect: 0,000000 
+time_starttransfer: 0,589857 
+time_total: 0,590085 
+----------- 
+time_namelookup: 0,003866 
+time_connect: 0,188162 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188354 
+time_redirect: 0,000000 
+time_starttransfer: 0,716586 
+time_total: 0,716763 
+----------- 
+time_namelookup: 0,002640 
+time_connect: 0,179493 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179626 
+time_redirect: 0,000000 
+time_starttransfer: 0,827747 
+time_total: 0,827940 
+----------- 
+time_namelookup: 0,003150 
+time_connect: 0,175038 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175194 
+time_redirect: 0,000000 
+time_starttransfer: 0,682108 
+time_total: 0,682255 
+----------- 
+time_namelookup: 0,002487 
+time_connect: 0,173595 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173749 
+time_redirect: 0,000000 
+time_starttransfer: 0,910739 
+time_total: 0,910890 
+----------- 
+time_namelookup: 0,002896 
+time_connect: 0,191305 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191430 
+time_redirect: 0,000000 
+time_starttransfer: 1,410116 
+time_total: 1,410324 
+----------- 
+time_namelookup: 0,002789 
+time_connect: 0,176682 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176848 
+time_redirect: 0,000000 
+time_starttransfer: 1,239732 
+time_total: 1,239902 
+----------- 
+time_namelookup: 0,002983 
+time_connect: 0,179707 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179860 
+time_redirect: 0,000000 
+time_starttransfer: 0,841273 
+time_total: 0,841385 
+----------- 
+time_namelookup: 0,002669 
+time_connect: 0,259262 
+time_appconnect: 0,000000 
+time_pretransfer: 0,259343 
+time_redirect: 0,000000 
+time_starttransfer: 0,679556 
+time_total: 0,679737 
+----------- 
+time_namelookup: 0,002880 
+time_connect: 0,180901 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181185 
+time_redirect: 0,000000 
+time_starttransfer: 0,647893 
+time_total: 0,647989 
+----------- 
+time_namelookup: 0,002670 
+time_connect: 0,189056 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189236 
+time_redirect: 0,000000 
+time_starttransfer: 0,860964 
+time_total: 0,861132 
+----------- 
+time_namelookup: 0,003444 
+time_connect: 0,187248 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187385 
+time_redirect: 0,000000 
+time_starttransfer: 0,896386 
+time_total: 0,896593 
+----------- 
+time_namelookup: 0,003343 
+time_connect: 0,172027 
+time_appconnect: 0,000000 
+time_pretransfer: 0,172181 
+time_redirect: 0,000000 
+time_starttransfer: 0,583245 
+time_total: 0,583467 
+----------- 
+time_namelookup: 0,003338 
+time_connect: 0,195466 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195580 
+time_redirect: 0,000000 
+time_starttransfer: 0,605224 
+time_total: 0,605413 
+----------- 
+time_namelookup: 0,002842 
+time_connect: 0,166526 
+time_appconnect: 0,000000 
+time_pretransfer: 0,166650 
+time_redirect: 0,000000 
+time_starttransfer: 0,569867 
+time_total: 0,570074 
+----------- 
+time_namelookup: 0,002881 
+time_connect: 0,181442 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181598 
+time_redirect: 0,000000 
+time_starttransfer: 0,648816 
+time_total: 0,648995 
+----------- 
+time_namelookup: 0,002792 
+time_connect: 0,178019 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178173 
+time_redirect: 0,000000 
+time_starttransfer: 0,580286 
+time_total: 0,580472 
+----------- 
+time_namelookup: 0,002672 
+time_connect: 0,177997 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178135 
+time_redirect: 0,000000 
+time_starttransfer: 0,624123 
+time_total: 0,624278 
+----------- 
+time_namelookup: 0,002992 
+time_connect: 0,185057 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185133 
+time_redirect: 0,000000 
+time_starttransfer: 0,602453 
+time_total: 0,602547 
+----------- 
+time_namelookup: 0,002796 
+time_connect: 0,184743 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184822 
+time_redirect: 0,000000 
+time_starttransfer: 0,605162 
+time_total: 0,605321 
+----------- 
+time_namelookup: 0,002854 
+time_connect: 0,179745 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179901 
+time_redirect: 0,000000 
+time_starttransfer: 0,911120 
+time_total: 0,911314 
+----------- 
+time_namelookup: 0,002595 
+time_connect: 0,191089 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191242 
+time_redirect: 0,000000 
+time_starttransfer: 0,704070 
+time_total: 0,704264 
+----------- 
+time_namelookup: 0,002961 
+time_connect: 0,180484 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180655 
+time_redirect: 0,000000 
+time_starttransfer: 0,704440 
+time_total: 0,704637 
+----------- 
+time_namelookup: 0,002878 
+time_connect: 0,178479 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178718 
+time_redirect: 0,000000 
+time_starttransfer: 0,603566 
+time_total: 0,603758 
+----------- 
+time_namelookup: 0,002718 
+time_connect: 0,177428 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177511 
+time_redirect: 0,000000 
+time_starttransfer: 1,092592 
+time_total: 1,092797 
+----------- 
+time_namelookup: 0,005832 
+time_connect: 1,177400 
+time_appconnect: 0,000000 
+time_pretransfer: 1,177660 
+time_redirect: 0,000000 
+time_starttransfer: 1,606410 
+time_total: 1,606637 
+----------- 
+time_namelookup: 0,002820 
+time_connect: 0,179512 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179678 
+time_redirect: 0,000000 
+time_starttransfer: 0,838305 
+time_total: 0,838396 
+----------- 
+time_namelookup: 0,003271 
+time_connect: 0,402747 
+time_appconnect: 0,000000 
+time_pretransfer: 0,402823 
+time_redirect: 0,000000 
+time_starttransfer: 0,872725 
+time_total: 0,872816 
+----------- 
+time_namelookup: 0,002722 
+time_connect: 0,268850 
+time_appconnect: 0,000000 
+time_pretransfer: 0,268939 
+time_redirect: 0,000000 
+time_starttransfer: 0,696795 
+time_total: 0,697064 
+----------- 
+time_namelookup: 0,002633 
+time_connect: 0,278503 
+time_appconnect: 0,000000 
+time_pretransfer: 0,278699 
+time_redirect: 0,000000 
+time_starttransfer: 0,717229 
+time_total: 0,717340 
+----------- 
+time_namelookup: 0,002859 
+time_connect: 0,315140 
+time_appconnect: 0,000000 
+time_pretransfer: 0,315310 
+time_redirect: 0,000000 
+time_starttransfer: 0,775496 
+time_total: 0,775619 
+----------- 
+time_namelookup: 0,003948 
+time_connect: 0,300953 
+time_appconnect: 0,000000 
+time_pretransfer: 0,301042 
+time_redirect: 0,000000 
+time_starttransfer: 1,076747 
+time_total: 1,076921 
+----------- 
+time_namelookup: 0,003140 
+time_connect: 0,176100 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176240 
+time_redirect: 0,000000 
+time_starttransfer: 0,581483 
+time_total: 0,581697 
+----------- 
+time_namelookup: 0,002877 
+time_connect: 0,195547 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195653 
+time_redirect: 0,000000 
+time_starttransfer: 0,930985 
+time_total: 0,931423 
+----------- 
+time_namelookup: 0,003061 
+time_connect: 0,179404 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179531 
+time_redirect: 0,000000 
+time_starttransfer: 0,601928 
+time_total: 0,602077 
+----------- 
+time_namelookup: 0,002914 
+time_connect: 0,184177 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184305 
+time_redirect: 0,000000 
+time_starttransfer: 0,705458 
+time_total: 0,705635 
+----------- 
+time_namelookup: 0,002829 
+time_connect: 0,180959 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181088 
+time_redirect: 0,000000 
+time_starttransfer: 0,831288 
+time_total: 0,831389 
+----------- 
+time_namelookup: 0,002595 
+time_connect: 0,176075 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176268 
+time_redirect: 0,000000 
+time_starttransfer: 0,608764 
+time_total: 0,608943 
+----------- 
+time_namelookup: 0,002903 
+time_connect: 0,186724 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186815 
+time_redirect: 0,000000 
+time_starttransfer: 0,612370 
+time_total: 0,612602 
+----------- 
+time_namelookup: 0,002506 
+time_connect: 0,179295 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179482 
+time_redirect: 0,000000 
+time_starttransfer: 1,166371 
+time_total: 1,166492 
+----------- 
+time_namelookup: 0,002939 
+time_connect: 0,179576 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179748 
+time_redirect: 0,000000 
+time_starttransfer: 0,609509 
+time_total: 0,609716 
+----------- 
+time_namelookup: 0,002449 
+time_connect: 0,188424 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188563 
+time_redirect: 0,000000 
+time_starttransfer: 0,611302 
+time_total: 0,611454 
+----------- 
+time_namelookup: 0,002620 
+time_connect: 0,188290 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188441 
+time_redirect: 0,000000 
+time_starttransfer: 0,594575 
+time_total: 0,594727 
+----------- 
+time_namelookup: 0,003199 
+time_connect: 0,180481 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180637 
+time_redirect: 0,000000 
+time_starttransfer: 0,836269 
+time_total: 0,836417 
+----------- 
+time_namelookup: 0,002883 
+time_connect: 0,195810 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196013 
+time_redirect: 0,000000 
+time_starttransfer: 0,615752 
+time_total: 0,615919 
+----------- 
+time_namelookup: 0,002742 
+time_connect: 0,194787 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194941 
+time_redirect: 0,000000 
+time_starttransfer: 0,612531 
+time_total: 0,612714 
+----------- 
+time_namelookup: 0,003025 
+time_connect: 0,179378 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179536 
+time_redirect: 0,000000 
+time_starttransfer: 1,154301 
+time_total: 1,154517 
+----------- 
+time_namelookup: 0,003071 
+time_connect: 0,322060 
+time_appconnect: 0,000000 
+time_pretransfer: 0,322189 
+time_redirect: 0,000000 
+time_starttransfer: 0,824313 
+time_total: 0,824420 
+----------- 
+time_namelookup: 0,002718 
+time_connect: 0,186837 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186992 
+time_redirect: 0,000000 
+time_starttransfer: 0,721588 
+time_total: 0,721709 
+----------- 
+time_namelookup: 0,002682 
+time_connect: 0,270829 
+time_appconnect: 0,000000 
+time_pretransfer: 0,270951 
+time_redirect: 0,000000 
+time_starttransfer: 0,685294 
+time_total: 0,685396 
+----------- 
+time_namelookup: 0,002772 
+time_connect: 0,267894 
+time_appconnect: 0,000000 
+time_pretransfer: 0,268028 
+time_redirect: 0,000000 
+time_starttransfer: 0,760667 
+time_total: 0,760767 
+----------- 
+time_namelookup: 0,002401 
+time_connect: 0,184611 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184754 
+time_redirect: 0,000000 
+time_starttransfer: 0,830988 
+time_total: 0,831149 
+----------- 
+time_namelookup: 0,002672 
+time_connect: 0,192384 
+time_appconnect: 0,000000 
+time_pretransfer: 0,192523 
+time_redirect: 0,000000 
+time_starttransfer: 1,432957 
+time_total: 1,433132 
+----------- 
+time_namelookup: 0,002745 
+time_connect: 0,177505 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177664 
+time_redirect: 0,000000 
+time_starttransfer: 0,574468 
+time_total: 0,574675 
+----------- 
+time_namelookup: 0,002787 
+time_connect: 0,198544 
+time_appconnect: 0,000000 
+time_pretransfer: 0,198773 
+time_redirect: 0,000000 
+time_starttransfer: 0,626370 
+time_total: 0,626596 
+----------- 
+time_namelookup: 0,002629 
+time_connect: 0,178182 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178498 
+time_redirect: 0,000000 
+time_starttransfer: 0,908245 
+time_total: 0,908393 
+----------- 
+time_namelookup: 0,003032 
+time_connect: 0,196661 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196791 
+time_redirect: 0,000000 
+time_starttransfer: 0,914420 
+time_total: 0,914636 
+----------- 
+time_namelookup: 0,002649 
+time_connect: 0,186056 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186201 
+time_redirect: 0,000000 
+time_starttransfer: 0,905599 
+time_total: 0,905728 
+----------- 
+time_namelookup: 0,003001 
+time_connect: 0,183771 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183850 
+time_redirect: 0,000000 
+time_starttransfer: 0,593962 
+time_total: 0,594070 
+----------- 
+time_namelookup: 0,003112 
+time_connect: 0,184861 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185000 
+time_redirect: 0,000000 
+time_starttransfer: 0,916065 
+time_total: 0,916213 
+----------- 
+time_namelookup: 0,002883 
+time_connect: 0,194890 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195047 
+time_redirect: 0,000000 
+time_starttransfer: 0,873251 
+time_total: 0,873463 
+----------- 
+time_namelookup: 0,002778 
+time_connect: 0,193669 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193796 
+time_redirect: 0,000000 
+time_starttransfer: 0,639430 
+time_total: 0,639625 
+----------- 
+time_namelookup: 0,002775 
+time_connect: 0,185068 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185278 
+time_redirect: 0,000000 
+time_starttransfer: 0,606835 
+time_total: 0,607132 
+----------- 
+time_namelookup: 0,003065 
+time_connect: 0,186496 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186717 
+time_redirect: 0,000000 
+time_starttransfer: 0,701170 
+time_total: 0,701459 
+----------- 
+time_namelookup: 0,002844 
+time_connect: 0,185816 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186202 
+time_redirect: 0,000000 
+time_starttransfer: 0,627765 
+time_total: 0,627984 
+----------- 
+time_namelookup: 0,002606 
+time_connect: 0,197470 
+time_appconnect: 0,000000 
+time_pretransfer: 0,197598 
+time_redirect: 0,000000 
+time_starttransfer: 0,878588 
+time_total: 0,878875 
+----------- 
+time_namelookup: 0,002864 
+time_connect: 0,195999 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196126 
+time_redirect: 0,000000 
+time_starttransfer: 0,936200 
+time_total: 0,936350 
+----------- 
+time_namelookup: 0,002896 
+time_connect: 0,243716 
+time_appconnect: 0,000000 
+time_pretransfer: 0,243853 
+time_redirect: 0,000000 
+time_starttransfer: 0,943067 
+time_total: 0,943188 
+----------- 
+time_namelookup: 0,002787 
+time_connect: 0,268109 
+time_appconnect: 0,000000 
+time_pretransfer: 0,268191 
+time_redirect: 0,000000 
+time_starttransfer: 0,970504 
+time_total: 0,970661 
+----------- 
+time_namelookup: 0,002649 
+time_connect: 0,267231 
+time_appconnect: 0,000000 
+time_pretransfer: 0,267371 
+time_redirect: 0,000000 
+time_starttransfer: 0,761256 
+time_total: 0,761375 
+----------- 
+time_namelookup: 0,002547 
+time_connect: 0,184247 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184432 
+time_redirect: 0,000000 
+time_starttransfer: 0,600886 
+time_total: 0,601062 
+----------- 
+time_namelookup: 0,002659 
+time_connect: 0,178140 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178219 
+time_redirect: 0,000000 
+time_starttransfer: 0,843994 
+time_total: 0,844183 
+----------- 
+time_namelookup: 0,003771 
+time_connect: 0,181752 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181918 
+time_redirect: 0,000000 
+time_starttransfer: 0,909891 
+time_total: 0,910114 
+----------- 
+time_namelookup: 0,002833 
+time_connect: 0,174974 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175118 
+time_redirect: 0,000000 
+time_starttransfer: 0,602109 
+time_total: 0,602281 
+----------- 
+time_namelookup: 0,003038 
+time_connect: 0,181016 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181173 
+time_redirect: 0,000000 
+time_starttransfer: 0,906436 
+time_total: 0,906583 
+----------- 
+time_namelookup: 0,002700 
+time_connect: 0,194711 
+time_appconnect: 0,000000 
+time_pretransfer: 0,194867 
+time_redirect: 0,000000 
+time_starttransfer: 0,703749 
+time_total: 0,703899 
+----------- 
+time_namelookup: 0,002798 
+time_connect: 0,180790 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180935 
+time_redirect: 0,000000 
+time_starttransfer: 0,889224 
+time_total: 0,889417 
+----------- 
+time_namelookup: 0,002727 
+time_connect: 0,182386 
+time_appconnect: 0,000000 
+time_pretransfer: 0,182541 
+time_redirect: 0,000000 
+time_starttransfer: 1,073785 
+time_total: 1,073886 
+----------- 
+time_namelookup: 0,002887 
+time_connect: 0,188208 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188364 
+time_redirect: 0,000000 
+time_starttransfer: 0,868446 
+time_total: 0,868609 
+----------- 
+time_namelookup: 0,002615 
+time_connect: 0,189273 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189447 
+time_redirect: 0,000000 
+time_starttransfer: 0,609749 
+time_total: 0,609972 
+----------- 
+time_namelookup: 0,002704 
+time_connect: 0,186683 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186900 
+time_redirect: 0,000000 
+time_starttransfer: 0,605178 
+time_total: 0,605404 
+----------- 
+time_namelookup: 0,002661 
+time_connect: 0,187280 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187410 
+time_redirect: 0,000000 
+time_starttransfer: 0,672224 
+time_total: 0,672445 
+----------- 
+time_namelookup: 0,002627 
+time_connect: 0,182059 
+time_appconnect: 0,000000 
+time_pretransfer: 0,182212 
+time_redirect: 0,000000 
+time_starttransfer: 0,838767 
+time_total: 0,839047 
+----------- 
+time_namelookup: 0,002845 
+time_connect: 1,171097 
+time_appconnect: 0,000000 
+time_pretransfer: 1,171252 
+time_redirect: 0,000000 
+time_starttransfer: 1,921760 
+time_total: 1,921981 
+----------- 
+time_namelookup: 0,003049 
+time_connect: 0,189671 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189880 
+time_redirect: 0,000000 
+time_starttransfer: 0,597917 
+time_total: 0,598128 
+----------- 
+time_namelookup: 0,002676 
+time_connect: 0,184495 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184638 
+time_redirect: 0,000000 
+time_starttransfer: 0,674718 
+time_total: 0,674843 
+----------- 
+time_namelookup: 0,002687 
+time_connect: 0,241818 
+time_appconnect: 0,000000 
+time_pretransfer: 0,241956 
+time_redirect: 0,000000 
+time_starttransfer: 0,675623 
+time_total: 0,675714 
+----------- 
+time_namelookup: 0,002672 
+time_connect: 0,217590 
+time_appconnect: 0,000000 
+time_pretransfer: 0,217693 
+time_redirect: 0,000000 
+time_starttransfer: 1,551485 
+time_total: 1,551622 
+----------- 
+time_namelookup: 0,002915 
+time_connect: 0,302691 
+time_appconnect: 0,000000 
+time_pretransfer: 0,302820 
+time_redirect: 0,000000 
+time_starttransfer: 0,948731 
+time_total: 0,948995 
+----------- 
+time_namelookup: 0,002575 
+time_connect: 0,299338 
+time_appconnect: 0,000000 
+time_pretransfer: 0,299478 
+time_redirect: 0,000000 
+time_starttransfer: 1,007242 
+time_total: 1,007403 
+----------- 
+time_namelookup: 0,002967 
+time_connect: 0,177750 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177906 
+time_redirect: 0,000000 
+time_starttransfer: 0,600695 
+time_total: 0,600814 
+----------- 
+time_namelookup: 0,002940 
+time_connect: 0,191630 
+time_appconnect: 0,000000 
+time_pretransfer: 0,191852 
+time_redirect: 0,000000 
+time_starttransfer: 0,912122 
+time_total: 0,912338 
+----------- 
+time_namelookup: 0,002635 
+time_connect: 0,185890 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185970 
+time_redirect: 0,000000 
+time_starttransfer: 0,703825 
+time_total: 0,703998 
+----------- 
+time_namelookup: 0,002942 
+time_connect: 0,184602 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184761 
+time_redirect: 0,000000 
+time_starttransfer: 0,594149 
+time_total: 0,594320 
+----------- 
+time_namelookup: 0,002654 
+time_connect: 0,179278 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179508 
+time_redirect: 0,000000 
+time_starttransfer: 0,610697 
+time_total: 0,610886 
+----------- 
+time_namelookup: 0,002641 
+time_connect: 0,195833 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195938 
+time_redirect: 0,000000 
+time_starttransfer: 0,647195 
+time_total: 0,647380 
+----------- 
+time_namelookup: 0,003595 
+time_connect: 0,184848 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185001 
+time_redirect: 0,000000 
+time_starttransfer: 0,827930 
+time_total: 0,828096 
+----------- 
+time_namelookup: 0,002718 
+time_connect: 0,184812 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184970 
+time_redirect: 0,000000 
+time_starttransfer: 0,946896 
+time_total: 0,947089 
+----------- 
+time_namelookup: 0,002591 
+time_connect: 0,178311 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178447 
+time_redirect: 0,000000 
+time_starttransfer: 0,908779 
+time_total: 0,908953 
+----------- 
+time_namelookup: 0,002708 
+time_connect: 1,192733 
+time_appconnect: 0,000000 
+time_pretransfer: 1,192864 
+time_redirect: 0,000000 
+time_starttransfer: 1,933377 
+time_total: 1,933532 
+----------- 
+time_namelookup: 0,002781 
+time_connect: 0,189868 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190022 
+time_redirect: 0,000000 
+time_starttransfer: 0,918730 
+time_total: 0,918901 
+----------- 
+time_namelookup: 0,002445 
+time_connect: 0,178276 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178404 
+time_redirect: 0,000000 
+time_starttransfer: 0,588656 
+time_total: 0,588833 
+----------- 
+time_namelookup: 0,003060 
+time_connect: 0,182405 
+time_appconnect: 0,000000 
+time_pretransfer: 0,182561 
+time_redirect: 0,000000 
+time_starttransfer: 0,915976 
+time_total: 0,916213 
+----------- 
+time_namelookup: 0,002543 
+time_connect: 0,177356 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177449 
+time_redirect: 0,000000 
+time_starttransfer: 0,901978 
+time_total: 0,902106 
+----------- 
+time_namelookup: 0,002817 
+time_connect: 0,202815 
+time_appconnect: 0,000000 
+time_pretransfer: 0,202944 
+time_redirect: 0,000000 
+time_starttransfer: 0,672524 
+time_total: 0,672638 
+----------- 
+time_namelookup: 0,002747 
+time_connect: 0,185900 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186059 
+time_redirect: 0,000000 
+time_starttransfer: 0,862814 
+time_total: 0,862929 
+----------- 
+time_namelookup: 0,002919 
+time_connect: 0,267419 
+time_appconnect: 0,000000 
+time_pretransfer: 0,267555 
+time_redirect: 0,000000 
+time_starttransfer: 0,757556 
+time_total: 0,757661 
+----------- 
+time_namelookup: 0,002618 
+time_connect: 0,170465 
+time_appconnect: 0,000000 
+time_pretransfer: 0,170594 
+time_redirect: 0,000000 
+time_starttransfer: 0,801278 
+time_total: 0,801380 
+----------- 
+time_namelookup: 0,002864 
+time_connect: 1,167794 
+time_appconnect: 0,000000 
+time_pretransfer: 1,167948 
+time_redirect: 0,000000 
+time_starttransfer: 1,878353 
+time_total: 1,878501 
+----------- 
+time_namelookup: 0,002706 
+time_connect: 0,180210 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180336 
+time_redirect: 0,000000 
+time_starttransfer: 0,597759 
+time_total: 0,597914 
+----------- 
+time_namelookup: 0,002967 
+time_connect: 0,267035 
+time_appconnect: 0,000000 
+time_pretransfer: 0,267188 
+time_redirect: 0,000000 
+time_starttransfer: 0,812887 
+time_total: 0,813041 
+----------- 
+time_namelookup: 0,003273 
+time_connect: 0,183736 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183864 
+time_redirect: 0,000000 
+time_starttransfer: 0,906992 
+time_total: 0,907148 
+----------- 
+time_namelookup: 0,003082 
+time_connect: 0,185203 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185331 
+time_redirect: 0,000000 
+time_starttransfer: 0,828190 
+time_total: 0,828372 
+----------- 
+time_namelookup: 0,002534 
+time_connect: 0,190510 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190604 
+time_redirect: 0,000000 
+time_starttransfer: 0,827524 
+time_total: 0,827708 
+----------- 
+time_namelookup: 0,002850 
+time_connect: 0,184677 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184768 
+time_redirect: 0,000000 
+time_starttransfer: 0,872843 
+time_total: 0,872978 
+----------- 
+time_namelookup: 0,002693 
+time_connect: 0,187036 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187177 
+time_redirect: 0,000000 
+time_starttransfer: 0,700400 
+time_total: 0,700583 
+----------- 
+time_namelookup: 0,002699 
+time_connect: 0,187415 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187571 
+time_redirect: 0,000000 
+time_starttransfer: 0,840075 
+time_total: 0,840259 
+----------- 
+time_namelookup: 0,002818 
+time_connect: 0,196465 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196619 
+time_redirect: 0,000000 
+time_starttransfer: 0,842471 
+time_total: 0,842665 
+----------- 
+time_namelookup: 0,002870 
+time_connect: 0,178420 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178565 
+time_redirect: 0,000000 
+time_starttransfer: 0,635439 
+time_total: 0,635642 
+----------- 
+time_namelookup: 0,003086 
+time_connect: 0,185026 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185149 
+time_redirect: 0,000000 
+time_starttransfer: 1,420392 
+time_total: 1,420644 
+----------- 
+time_namelookup: 0,002746 
+time_connect: 0,179499 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179628 
+time_redirect: 0,000000 
+time_starttransfer: 1,033362 
+time_total: 1,033472 
+----------- 
+time_namelookup: 0,003127 
+time_connect: 1,190398 
+time_appconnect: 0,000000 
+time_pretransfer: 1,190552 
+time_redirect: 0,000000 
+time_starttransfer: 1,618431 
+time_total: 1,618600 
+----------- 
+time_namelookup: 0,003839 
+time_connect: 0,254773 
+time_appconnect: 0,000000 
+time_pretransfer: 0,254931 
+time_redirect: 0,000000 
+time_starttransfer: 0,968844 
+time_total: 0,968943 
+----------- 
+time_namelookup: 0,002863 
+time_connect: 0,195689 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195822 
+time_redirect: 0,000000 
+time_starttransfer: 0,965475 
+time_total: 0,965600 
+----------- 
+time_namelookup: 0,003165 
+time_connect: 0,179585 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179777 
+time_redirect: 0,000000 
+time_starttransfer: 0,867862 
+time_total: 0,867968 
+----------- 
+time_namelookup: 0,003262 
+time_connect: 0,193026 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193133 
+time_redirect: 0,000000 
+time_starttransfer: 0,865268 
+time_total: 0,865377 
+----------- 
+time_namelookup: 0,003710 
+time_connect: 0,189411 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189492 
+time_redirect: 0,000000 
+time_starttransfer: 0,613520 
+time_total: 0,613716 
+----------- 
+time_namelookup: 0,002737 
+time_connect: 0,180637 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180963 
+time_redirect: 0,000000 
+time_starttransfer: 0,649158 
+time_total: 0,649323 
+----------- 
+time_namelookup: 0,003196 
+time_connect: 0,174291 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174390 
+time_redirect: 0,000000 
+time_starttransfer: 0,848042 
+time_total: 0,848143 
+----------- 
+time_namelookup: 0,002625 
+time_connect: 0,186491 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186580 
+time_redirect: 0,000000 
+time_starttransfer: 0,976919 
+time_total: 0,977061 
+----------- 
+time_namelookup: 0,002726 
+time_connect: 0,177130 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177222 
+time_redirect: 0,000000 
+time_starttransfer: 0,810375 
+time_total: 0,810543 
+----------- 
+time_namelookup: 0,002619 
+time_connect: 0,173709 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173841 
+time_redirect: 0,000000 
+time_starttransfer: 0,904160 
+time_total: 0,904259 
+----------- 
+time_namelookup: 0,003732 
+time_connect: 0,190658 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190751 
+time_redirect: 0,000000 
+time_starttransfer: 0,847971 
+time_total: 0,848086 
+----------- 
+time_namelookup: 0,002623 
+time_connect: 0,186457 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186574 
+time_redirect: 0,000000 
+time_starttransfer: 0,827824 
+time_total: 0,827926 
+----------- 
+time_namelookup: 0,002900 
+time_connect: 0,180730 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180855 
+time_redirect: 0,000000 
+time_starttransfer: 0,848479 
+time_total: 0,848575 
+----------- 
+time_namelookup: 0,002727 
+time_connect: 0,185161 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185263 
+time_redirect: 0,000000 
+time_starttransfer: 0,912721 
+time_total: 0,912943 
+----------- 
+time_namelookup: 0,002750 
+time_connect: 0,198500 
+time_appconnect: 0,000000 
+time_pretransfer: 0,198632 
+time_redirect: 0,000000 
+time_starttransfer: 0,908123 
+time_total: 0,908344 
+----------- 
+time_namelookup: 0,002580 
+time_connect: 0,196021 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196113 
+time_redirect: 0,000000 
+time_starttransfer: 0,849189 
+time_total: 0,849379 
+----------- 
+time_namelookup: 0,003298 
+time_connect: 0,189221 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189410 
+time_redirect: 0,000000 
+time_starttransfer: 0,710372 
+time_total: 0,710456 
+----------- 
+time_namelookup: 0,002720 
+time_connect: 0,238470 
+time_appconnect: 0,000000 
+time_pretransfer: 0,238568 
+time_redirect: 0,000000 
+time_starttransfer: 0,692841 
+time_total: 0,692934 
+----------- 
+time_namelookup: 0,002600 
+time_connect: 1,198699 
+time_appconnect: 0,000000 
+time_pretransfer: 1,198849 
+time_redirect: 0,000000 
+time_starttransfer: 1,686510 
+time_total: 1,686691 
+----------- 
+time_namelookup: 0,002666 
+time_connect: 0,171361 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171486 
+time_redirect: 0,000000 
+time_starttransfer: 0,628317 
+time_total: 0,628441 
+----------- 
+time_namelookup: 0,076725 
+time_connect: 0,303774 
+time_appconnect: 0,000000 
+time_pretransfer: 0,303966 
+time_redirect: 0,000000 
+time_starttransfer: 0,738639 
+time_total: 0,738791 
+----------- 
+time_namelookup: 0,004084 
+time_connect: 0,196210 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196295 
+time_redirect: 0,000000 
+time_starttransfer: 0,869833 
+time_total: 0,869933 
+----------- 
+time_namelookup: 0,003164 
+time_connect: 1,169648 
+time_appconnect: 0,000000 
+time_pretransfer: 1,169776 
+time_redirect: 0,000000 
+time_starttransfer: 1,887031 
+time_total: 1,887255 
+----------- 
+time_namelookup: 0,002717 
+time_connect: 0,193378 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193531 
+time_redirect: 0,000000 
+time_starttransfer: 0,908861 
+time_total: 0,909039 
+----------- 
+time_namelookup: 0,002731 
+time_connect: 0,179971 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180119 
+time_redirect: 0,000000 
+time_starttransfer: 0,699248 
+time_total: 0,699632 
+----------- 
+time_namelookup: 0,002667 
+time_connect: 0,184851 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184966 
+time_redirect: 0,000000 
+time_starttransfer: 0,874288 
+time_total: 0,874522 
+----------- 
+time_namelookup: 0,002598 
+time_connect: 0,177743 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177903 
+time_redirect: 0,000000 
+time_starttransfer: 0,650825 
+time_total: 0,650941 
+----------- 
+time_namelookup: 0,002922 
+time_connect: 0,237842 
+time_appconnect: 0,000000 
+time_pretransfer: 0,237972 
+time_redirect: 0,000000 
+time_starttransfer: 0,927338 
+time_total: 0,927443 
+----------- 
+time_namelookup: 0,003704 
+time_connect: 0,211819 
+time_appconnect: 0,000000 
+time_pretransfer: 0,211912 
+time_redirect: 0,000000 
+time_starttransfer: 0,930430 
+time_total: 0,930540 
+----------- 
+time_namelookup: 0,002866 
+time_connect: 0,183079 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183177 
+time_redirect: 0,000000 
+time_starttransfer: 0,604328 
+time_total: 0,604444 
+----------- 
+time_namelookup: 0,002881 
+time_connect: 0,294347 
+time_appconnect: 0,000000 
+time_pretransfer: 0,294444 
+time_redirect: 0,000000 
+time_starttransfer: 0,769167 
+time_total: 0,769347 
+----------- 
+time_namelookup: 0,003235 
+time_connect: 0,300001 
+time_appconnect: 0,000000 
+time_pretransfer: 0,300098 
+time_redirect: 0,000000 
+time_starttransfer: 0,978414 
+time_total: 0,978561 
+----------- 
+time_namelookup: 0,007035 
+time_connect: 0,243671 
+time_appconnect: 0,000000 
+time_pretransfer: 0,243847 
+time_redirect: 0,000000 
+time_starttransfer: 1,005959 
+time_total: 1,006141 
+----------- 
+time_namelookup: 0,003599 
+time_connect: 0,175638 
+time_appconnect: 0,000000 
+time_pretransfer: 0,175770 
+time_redirect: 0,000000 
+time_starttransfer: 0,907278 
+time_total: 0,907417 
+----------- 
+time_namelookup: 0,003020 
+time_connect: 0,184717 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184816 
+time_redirect: 0,000000 
+time_starttransfer: 0,910446 
+time_total: 0,910555 
+----------- 
+time_namelookup: 0,002672 
+time_connect: 0,192336 
+time_appconnect: 0,000000 
+time_pretransfer: 0,192495 
+time_redirect: 0,000000 
+time_starttransfer: 0,708356 
+time_total: 0,708514 
+----------- 
+time_namelookup: 0,002604 
+time_connect: 0,176620 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176804 
+time_redirect: 0,000000 
+time_starttransfer: 0,606665 
+time_total: 0,606899 
+----------- 
+time_namelookup: 0,002655 
+time_connect: 0,179648 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179737 
+time_redirect: 0,000000 
+time_starttransfer: 0,831820 
+time_total: 0,831971 
+----------- 
+time_namelookup: 0,005248 
+time_connect: 0,195887 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196023 
+time_redirect: 0,000000 
+time_starttransfer: 0,669318 
+time_total: 0,669451 
+----------- 
+time_namelookup: 0,002713 
+time_connect: 0,178780 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178872 
+time_redirect: 0,000000 
+time_starttransfer: 0,910140 
+time_total: 0,910270 
+----------- 
+time_namelookup: 0,003371 
+time_connect: 0,180492 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180699 
+time_redirect: 0,000000 
+time_starttransfer: 0,698348 
+time_total: 0,698481 
+----------- 
+time_namelookup: 0,003189 
+time_connect: 0,185647 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185799 
+time_redirect: 0,000000 
+time_starttransfer: 0,911034 
+time_total: 0,911189 
+----------- 
+time_namelookup: 0,002700 
+time_connect: 0,164700 
+time_appconnect: 0,000000 
+time_pretransfer: 0,164926 
+time_redirect: 0,000000 
+time_starttransfer: 0,907663 
+time_total: 0,907804 
+----------- 
+time_namelookup: 0,002694 
+time_connect: 0,185346 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185682 
+time_redirect: 0,000000 
+time_starttransfer: 0,656150 
+time_total: 0,656259 
+----------- 
+time_namelookup: 0,003089 
+time_connect: 0,187284 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187423 
+time_redirect: 0,000000 
+time_starttransfer: 0,624390 
+time_total: 0,624558 
+----------- 
+time_namelookup: 0,002792 
+time_connect: 0,186687 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186756 
+time_redirect: 0,000000 
+time_starttransfer: 0,615202 
+time_total: 0,615327 
+----------- 
+time_namelookup: 0,003583 
+time_connect: 0,187596 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187765 
+time_redirect: 0,000000 
+time_starttransfer: 0,713461 
+time_total: 0,713576 
+----------- 
+time_namelookup: 0,002621 
+time_connect: 0,248330 
+time_appconnect: 0,000000 
+time_pretransfer: 0,248431 
+time_redirect: 0,000000 
+time_starttransfer: 1,646644 
+time_total: 1,646739 
+----------- 
+time_namelookup: 0,002976 
+time_connect: 0,260526 
+time_appconnect: 0,000000 
+time_pretransfer: 0,260680 
+time_redirect: 0,000000 
+time_starttransfer: 0,997899 
+time_total: 0,998027 
+----------- 
+time_namelookup: 0,002817 
+time_connect: 1,175494 
+time_appconnect: 0,000000 
+time_pretransfer: 1,175632 
+time_redirect: 0,000000 
+time_starttransfer: 1,862088 
+time_total: 1,862328 
+----------- 
+time_namelookup: 0,002625 
+time_connect: 0,179779 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179935 
+time_redirect: 0,000000 
+time_starttransfer: 0,877582 
+time_total: 0,877836 
+----------- 
+time_namelookup: 0,002728 
+time_connect: 0,195772 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195927 
+time_redirect: 0,000000 
+time_starttransfer: 0,861246 
+time_total: 0,861400 
+----------- 
+time_namelookup: 0,002863 
+time_connect: 0,177235 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177464 
+time_redirect: 0,000000 
+time_starttransfer: 0,650600 
+time_total: 0,650776 
+----------- 
+time_namelookup: 0,002665 
+time_connect: 0,181142 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181338 
+time_redirect: 0,000000 
+time_starttransfer: 0,911329 
+time_total: 0,911500 
+----------- 
+time_namelookup: 0,002731 
+time_connect: 0,188034 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188188 
+time_redirect: 0,000000 
+time_starttransfer: 0,703548 
+time_total: 0,703729 
+----------- 
+time_namelookup: 0,002613 
+time_connect: 1,165189 
+time_appconnect: 0,000000 
+time_pretransfer: 1,165345 
+time_redirect: 0,000000 
+time_starttransfer: 1,972997 
+time_total: 1,973126 
+----------- 
+time_namelookup: 0,002845 
+time_connect: 0,187037 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187192 
+time_redirect: 0,000000 
+time_starttransfer: 0,626510 
+time_total: 0,626648 
+----------- 
+time_namelookup: 0,002681 
+time_connect: 0,182935 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183091 
+time_redirect: 0,000000 
+time_starttransfer: 0,863732 
+time_total: 0,863916 
+----------- 
+time_namelookup: 0,002842 
+time_connect: 0,268490 
+time_appconnect: 0,000000 
+time_pretransfer: 0,268599 
+time_redirect: 0,000000 
+time_starttransfer: 0,766298 
+time_total: 0,766419 
+----------- 
+time_namelookup: 0,002647 
+time_connect: 0,199308 
+time_appconnect: 0,000000 
+time_pretransfer: 0,199437 
+time_redirect: 0,000000 
+time_starttransfer: 0,639848 
+time_total: 0,640023 
+----------- 
+time_namelookup: 0,003037 
+time_connect: 0,313917 
+time_appconnect: 0,000000 
+time_pretransfer: 0,314055 
+time_redirect: 0,000000 
+time_starttransfer: 0,961858 
+time_total: 0,962020 
+----------- 
+time_namelookup: 0,002942 
+time_connect: 0,186629 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186728 
+time_redirect: 0,000000 
+time_starttransfer: 0,860818 
+time_total: 0,861054 
+----------- 
+time_namelookup: 0,003069 
+time_connect: 0,176657 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176859 
+time_redirect: 0,000000 
+time_starttransfer: 0,825053 
+time_total: 0,825284 
+----------- 
+time_namelookup: 0,002836 
+time_connect: 0,179948 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180080 
+time_redirect: 0,000000 
+time_starttransfer: 0,828355 
+time_total: 0,828502 
+----------- 
+time_namelookup: 0,002800 
+time_connect: 0,178151 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178314 
+time_redirect: 0,000000 
+time_starttransfer: 0,940181 
+time_total: 0,940387 
+----------- 
+time_namelookup: 0,002547 
+time_connect: 0,177530 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177661 
+time_redirect: 0,000000 
+time_starttransfer: 0,908698 
+time_total: 0,908847 
+----------- 
+time_namelookup: 0,003185 
+time_connect: 0,180277 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180450 
+time_redirect: 0,000000 
+time_starttransfer: 0,591349 
+time_total: 0,591565 
+----------- 
+time_namelookup: 0,002650 
+time_connect: 0,195039 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195180 
+time_redirect: 0,000000 
+time_starttransfer: 0,894577 
+time_total: 0,894802 
+----------- 
+time_namelookup: 0,002840 
+time_connect: 0,184220 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184306 
+time_redirect: 0,000000 
+time_starttransfer: 0,626199 
+time_total: 0,626377 
+----------- 
+time_namelookup: 0,002807 
+time_connect: 0,185855 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186007 
+time_redirect: 0,000000 
+time_starttransfer: 0,912759 
+time_total: 0,912887 
+----------- 
+time_namelookup: 0,002497 
+time_connect: 0,183651 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183807 
+time_redirect: 0,000000 
+time_starttransfer: 0,848633 
+time_total: 0,848856 
+----------- 
+time_namelookup: 0,002805 
+time_connect: 0,178105 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178259 
+time_redirect: 0,000000 
+time_starttransfer: 0,662239 
+time_total: 0,662391 
+----------- 
+time_namelookup: 0,002862 
+time_connect: 0,174396 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174564 
+time_redirect: 0,000000 
+time_starttransfer: 0,603130 
+time_total: 0,603313 
+----------- 
+time_namelookup: 0,002624 
+time_connect: 0,179909 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180120 
+time_redirect: 0,000000 
+time_starttransfer: 0,601577 
+time_total: 0,601760 
+----------- 
+time_namelookup: 0,002956 
+time_connect: 0,188695 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188853 
+time_redirect: 0,000000 
+time_starttransfer: 0,625111 
+time_total: 0,625323 
+----------- 
+time_namelookup: 0,002688 
+time_connect: 0,187110 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187323 
+time_redirect: 0,000000 
+time_starttransfer: 1,159144 
+time_total: 1,159397 
+----------- 
+time_namelookup: 0,003307 
+time_connect: 0,337817 
+time_appconnect: 0,000000 
+time_pretransfer: 0,337905 
+time_redirect: 0,000000 
+time_starttransfer: 0,794043 
+time_total: 0,794140 
+----------- 
+time_namelookup: 0,002701 
+time_connect: 0,185552 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185685 
+time_redirect: 0,000000 
+time_starttransfer: 0,704859 
+time_total: 0,704978 
+----------- 
+time_namelookup: 0,002457 
+time_connect: 0,223577 
+time_appconnect: 0,000000 
+time_pretransfer: 0,223650 
+time_redirect: 0,000000 
+time_starttransfer: 0,903467 
+time_total: 0,903562 
+----------- 
+time_namelookup: 0,002518 
+time_connect: 0,178125 
+time_appconnect: 0,000000 
+time_pretransfer: 0,178253 
+time_redirect: 0,000000 
+time_starttransfer: 0,836020 
+time_total: 0,836138 
+----------- 
+time_namelookup: 0,002903 
+time_connect: 0,187083 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187240 
+time_redirect: 0,000000 
+time_starttransfer: 0,931908 
+time_total: 0,932062 
+----------- 
+time_namelookup: 0,002917 
+time_connect: 1,184454 
+time_appconnect: 0,000000 
+time_pretransfer: 1,184593 
+time_redirect: 0,000000 
+time_starttransfer: 2,137100 
+time_total: 2,137278 
+----------- 
+time_namelookup: 0,002620 
+time_connect: 0,183705 
+time_appconnect: 0,000000 
+time_pretransfer: 0,183858 
+time_redirect: 0,000000 
+time_starttransfer: 0,668347 
+time_total: 0,668547 
+----------- 
+time_namelookup: 0,003179 
+time_connect: 0,187372 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187627 
+time_redirect: 0,000000 
+time_starttransfer: 1,151501 
+time_total: 1,151656 
+----------- 
+time_namelookup: 0,002820 
+time_connect: 0,179240 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179424 
+time_redirect: 0,000000 
+time_starttransfer: 0,601867 
+time_total: 0,602018 
+----------- 
+time_namelookup: 0,002920 
+time_connect: 0,172922 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173081 
+time_redirect: 0,000000 
+time_starttransfer: 0,855829 
+time_total: 0,855922 
+----------- 
+time_namelookup: 0,003024 
+time_connect: 0,251729 
+time_appconnect: 0,000000 
+time_pretransfer: 0,251837 
+time_redirect: 0,000000 
+time_starttransfer: 0,897321 
+time_total: 0,897436 
+----------- 
+time_namelookup: 0,002657 
+time_connect: 0,277690 
+time_appconnect: 0,000000 
+time_pretransfer: 0,277825 
+time_redirect: 0,000000 
+time_starttransfer: 0,688045 
+time_total: 0,688226 
+----------- 
+time_namelookup: 0,002503 
+time_connect: 0,244080 
+time_appconnect: 0,000000 
+time_pretransfer: 0,244154 
+time_redirect: 0,000000 
+time_starttransfer: 1,030659 
+time_total: 1,030767 
+----------- 
+time_namelookup: 0,002770 
+time_connect: 0,185031 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185171 
+time_redirect: 0,000000 
+time_starttransfer: 0,651801 
+time_total: 0,652045 
+----------- 
+time_namelookup: 0,002801 
+time_connect: 0,300217 
+time_appconnect: 0,000000 
+time_pretransfer: 0,300303 
+time_redirect: 0,000000 
+time_starttransfer: 1,011845 
+time_total: 1,011989 
+----------- 
+time_namelookup: 0,002802 
+time_connect: 0,184777 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184998 
+time_redirect: 0,000000 
+time_starttransfer: 0,706944 
+time_total: 0,707161 
+----------- 
+time_namelookup: 0,002746 
+time_connect: 0,179125 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179322 
+time_redirect: 0,000000 
+time_starttransfer: 0,911114 
+time_total: 0,911296 
+----------- 
+time_namelookup: 0,002549 
+time_connect: 1,176917 
+time_appconnect: 0,000000 
+time_pretransfer: 1,177045 
+time_redirect: 0,000000 
+time_starttransfer: 1,866130 
+time_total: 1,866350 
+----------- 
+time_namelookup: 0,002741 
+time_connect: 0,176383 
+time_appconnect: 0,000000 
+time_pretransfer: 0,176553 
+time_redirect: 0,000000 
+time_starttransfer: 0,588868 
+time_total: 0,589038 
+----------- 
+time_namelookup: 0,002794 
+time_connect: 0,187008 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187178 
+time_redirect: 0,000000 
+time_starttransfer: 0,949205 
+time_total: 0,949390 
+----------- 
+time_namelookup: 0,002901 
+time_connect: 0,187137 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187308 
+time_redirect: 0,000000 
+time_starttransfer: 0,828113 
+time_total: 0,828278 
+----------- 
+time_namelookup: 0,003362 
+time_connect: 1,181605 
+time_appconnect: 0,000000 
+time_pretransfer: 1,181789 
+time_redirect: 0,000000 
+time_starttransfer: 1,848782 
+time_total: 1,849003 
+----------- 
+time_namelookup: 0,002654 
+time_connect: 0,182482 
+time_appconnect: 0,000000 
+time_pretransfer: 0,182614 
+time_redirect: 0,000000 
+time_starttransfer: 0,601568 
+time_total: 0,601729 
+----------- 
+time_namelookup: 0,002671 
+time_connect: 0,177524 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177652 
+time_redirect: 0,000000 
+time_starttransfer: 0,602911 
+time_total: 0,603083 
+----------- 
+time_namelookup: 0,003167 
+time_connect: 0,177733 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177891 
+time_redirect: 0,000000 
+time_starttransfer: 0,601701 
+time_total: 0,601877 
+----------- 
+time_namelookup: 0,002763 
+time_connect: 0,184494 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184627 
+time_redirect: 0,000000 
+time_starttransfer: 0,860222 
+time_total: 0,860408 
+----------- 
+time_namelookup: 0,003003 
+time_connect: 0,179924 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180053 
+time_redirect: 0,000000 
+time_starttransfer: 0,652348 
+time_total: 0,652532 
+----------- 
+time_namelookup: 0,002566 
+time_connect: 1,262979 
+time_appconnect: 0,000000 
+time_pretransfer: 1,263051 
+time_redirect: 0,000000 
+time_starttransfer: 1,774378 
+time_total: 1,774556 
+----------- 
+time_namelookup: 0,003085 
+time_connect: 0,260773 
+time_appconnect: 0,000000 
+time_pretransfer: 0,260870 
+time_redirect: 0,000000 
+time_starttransfer: 0,691241 
+time_total: 0,691404 
+----------- 
+time_namelookup: 0,002713 
+time_connect: 0,304435 
+time_appconnect: 0,000000 
+time_pretransfer: 0,304565 
+time_redirect: 0,000000 
+time_starttransfer: 0,806732 
+time_total: 0,806916 
+----------- 
+time_namelookup: 0,002850 
+time_connect: 0,283952 
+time_appconnect: 0,000000 
+time_pretransfer: 0,284040 
+time_redirect: 0,000000 
+time_starttransfer: 0,728418 
+time_total: 0,728590 
+----------- 
+time_namelookup: 0,002804 
+time_connect: 0,190808 
+time_appconnect: 0,000000 
+time_pretransfer: 0,190943 
+time_redirect: 0,000000 
+time_starttransfer: 0,955756 
+time_total: 0,955930 
+----------- 
+time_namelookup: 0,002699 
+time_connect: 0,185729 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185924 
+time_redirect: 0,000000 
+time_starttransfer: 0,602165 
+time_total: 0,602285 
+----------- 
+time_namelookup: 0,003021 
+time_connect: 0,185059 
+time_appconnect: 0,000000 
+time_pretransfer: 0,185189 
+time_redirect: 0,000000 
+time_starttransfer: 0,705904 
+time_total: 0,706039 
+----------- 
+time_namelookup: 0,002809 
+time_connect: 0,187696 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187804 
+time_redirect: 0,000000 
+time_starttransfer: 0,909595 
+time_total: 0,909766 
+----------- 
+time_namelookup: 0,003075 
+time_connect: 0,186284 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186443 
+time_redirect: 0,000000 
+time_starttransfer: 0,600931 
+time_total: 0,601104 
+----------- 
+time_namelookup: 0,002578 
+time_connect: 0,174823 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174980 
+time_redirect: 0,000000 
+time_starttransfer: 0,909094 
+time_total: 0,909335 
+----------- 
+time_namelookup: 0,003259 
+time_connect: 0,181086 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181234 
+time_redirect: 0,000000 
+time_starttransfer: 0,660340 
+time_total: 0,660528 
+----------- 
+time_namelookup: 0,002690 
+time_connect: 0,169345 
+time_appconnect: 0,000000 
+time_pretransfer: 0,169508 
+time_redirect: 0,000000 
+time_starttransfer: 0,577776 
+time_total: 0,577998 
+----------- 
+time_namelookup: 0,002496 
+time_connect: 0,196269 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196407 
+time_redirect: 0,000000 
+time_starttransfer: 0,978688 
+time_total: 0,978810 
+----------- 
+time_namelookup: 0,003627 
+time_connect: 0,193803 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193890 
+time_redirect: 0,000000 
+time_starttransfer: 0,859601 
+time_total: 0,859782 
+----------- 
+time_namelookup: 0,002709 
+time_connect: 0,184685 
+time_appconnect: 0,000000 
+time_pretransfer: 0,184838 
+time_redirect: 0,000000 
+time_starttransfer: 0,653281 
+time_total: 0,653431 
+----------- 
+time_namelookup: 0,002893 
+time_connect: 0,187403 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187531 
+time_redirect: 0,000000 
+time_starttransfer: 0,597047 
+time_total: 0,597220 
+----------- 
+time_namelookup: 0,002802 
+time_connect: 0,180787 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181101 
+time_redirect: 0,000000 
+time_starttransfer: 0,816276 
+time_total: 0,816470 
+----------- 
+time_namelookup: 0,003015 
+time_connect: 0,171400 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171555 
+time_redirect: 0,000000 
+time_starttransfer: 0,897722 
+time_total: 0,897869 
+----------- 
+time_namelookup: 0,002862 
+time_connect: 1,169600 
+time_appconnect: 0,000000 
+time_pretransfer: 1,169757 
+time_redirect: 0,000000 
+time_starttransfer: 1,718512 
+time_total: 1,718655 
+----------- 
+time_namelookup: 0,002655 
+time_connect: 0,246564 
+time_appconnect: 0,000000 
+time_pretransfer: 0,246699 
+time_redirect: 0,000000 
+time_starttransfer: 0,989387 
+time_total: 0,989630 
+----------- 
+time_namelookup: 0,003193 
+time_connect: 0,179613 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179767 
+time_redirect: 0,000000 
+time_starttransfer: 0,855741 
+time_total: 0,855856 
+----------- 
+time_namelookup: 0,002754 
+time_connect: 0,269211 
+time_appconnect: 0,000000 
+time_pretransfer: 0,269288 
+time_redirect: 0,000000 
+time_starttransfer: 0,948092 
+time_total: 0,948210 
+----------- 
+time_namelookup: 0,002687 
+time_connect: 0,307091 
+time_appconnect: 0,000000 
+time_pretransfer: 0,307179 
+time_redirect: 0,000000 
+time_starttransfer: 0,963771 
+time_total: 0,963963 
+----------- 
+time_namelookup: 0,002762 
+time_connect: 0,188022 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188184 
+time_redirect: 0,000000 
+time_starttransfer: 0,843105 
+time_total: 0,843260 
+----------- 
+time_namelookup: 0,002774 
+time_connect: 0,181086 
+time_appconnect: 0,000000 
+time_pretransfer: 0,181286 
+time_redirect: 0,000000 
+time_starttransfer: 0,874304 
+time_total: 0,874484 
+----------- 
+time_namelookup: 0,002708 
+time_connect: 0,193378 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193555 
+time_redirect: 0,000000 
+time_starttransfer: 0,703149 
+time_total: 0,703296 
+----------- 
+time_namelookup: 0,002552 
+time_connect: 0,170874 
+time_appconnect: 0,000000 
+time_pretransfer: 0,171018 
+time_redirect: 0,000000 
+time_starttransfer: 0,693297 
+time_total: 0,693448 
+----------- 
+time_namelookup: 0,002474 
+time_connect: 0,177440 
+time_appconnect: 0,000000 
+time_pretransfer: 0,177519 
+time_redirect: 0,000000 
+time_starttransfer: 0,614945 
+time_total: 0,615133 
+----------- 
+time_namelookup: 0,002920 
+time_connect: 0,193470 
+time_appconnect: 0,000000 
+time_pretransfer: 0,193694 
+time_redirect: 0,000000 
+time_starttransfer: 0,909776 
+time_total: 0,909951 
+----------- 
+time_namelookup: 0,002990 
+time_connect: 0,187873 
+time_appconnect: 0,000000 
+time_pretransfer: 0,188028 
+time_redirect: 0,000000 
+time_starttransfer: 0,910754 
+time_total: 0,910975 
+----------- 
+time_namelookup: 0,002728 
+time_connect: 0,179689 
+time_appconnect: 0,000000 
+time_pretransfer: 0,179793 
+time_redirect: 0,000000 
+time_starttransfer: 0,595672 
+time_total: 0,595786 
+----------- 
+time_namelookup: 0,002940 
+time_connect: 0,196611 
+time_appconnect: 0,000000 
+time_pretransfer: 0,196694 
+time_redirect: 0,000000 
+time_starttransfer: 0,633622 
+time_total: 0,633824 
+----------- 
+time_namelookup: 0,002669 
+time_connect: 0,187483 
+time_appconnect: 0,000000 
+time_pretransfer: 0,187641 
+time_redirect: 0,000000 
+time_starttransfer: 0,861386 
+time_total: 0,861533 
+----------- 
+time_namelookup: 0,002896 
+time_connect: 0,174531 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174685 
+time_redirect: 0,000000 
+time_starttransfer: 0,807281 
+time_total: 0,807461 
+----------- 
+time_namelookup: 0,002629 
+time_connect: 0,172522 
+time_appconnect: 0,000000 
+time_pretransfer: 0,172651 
+time_redirect: 0,000000 
+time_starttransfer: 0,590751 
+time_total: 0,590927 
+----------- 
+time_namelookup: 0,002733 
+time_connect: 0,195578 
+time_appconnect: 0,000000 
+time_pretransfer: 0,195731 
+time_redirect: 0,000000 
+time_starttransfer: 0,943315 
+time_total: 0,943470 
+----------- 
+time_namelookup: 0,002883 
+time_connect: 0,189863 
+time_appconnect: 0,000000 
+time_pretransfer: 0,189992 
+time_redirect: 0,000000 
+time_starttransfer: 0,910083 
+time_total: 0,910258 
+----------- 
+time_namelookup: 0,002851 
+time_connect: 0,192569 
+time_appconnect: 0,000000 
+time_pretransfer: 0,192698 
+time_redirect: 0,000000 
+time_starttransfer: 0,957797 
+time_total: 0,957888 
+----------- 
+time_namelookup: 0,002699 
+time_connect: 0,252653 
+time_appconnect: 0,000000 
+time_pretransfer: 0,252789 
+time_redirect: 0,000000 
+time_starttransfer: 1,690172 
+time_total: 1,690263 
+----------- 
+time_namelookup: 0,002670 
+time_connect: 0,254767 
+time_appconnect: 0,000000 
+time_pretransfer: 0,254849 
+time_redirect: 0,000000 
+time_starttransfer: 1,126686 
+time_total: 1,126792 
+----------- 
+time_namelookup: 0,002919 
+time_connect: 0,310554 
+time_appconnect: 0,000000 
+time_pretransfer: 0,310656 
+time_redirect: 0,000000 
+time_starttransfer: 0,992476 
+time_total: 0,992684 
+----------- 
+time_namelookup: 0,002673 
+time_connect: 0,172941 
+time_appconnect: 0,000000 
+time_pretransfer: 0,173069 
+time_redirect: 0,000000 
+time_starttransfer: 0,908527 
+time_total: 0,908700 
+----------- 
+time_namelookup: 0,002755 
+time_connect: 0,198553 
+time_appconnect: 0,000000 
+time_pretransfer: 0,198711 
+time_redirect: 0,000000 
+time_starttransfer: 0,874399 
+time_total: 0,874649 
+----------- 
+time_namelookup: 0,003307 
+time_connect: 0,192039 
+time_appconnect: 0,000000 
+time_pretransfer: 0,192226 
+time_redirect: 0,000000 
+time_starttransfer: 0,639892 
+time_total: 0,640120 
+----------- 
+time_namelookup: 0,002817 
+time_connect: 0,186560 
+time_appconnect: 0,000000 
+time_pretransfer: 0,186712 
+time_redirect: 0,000000 
+time_starttransfer: 0,866403 
+time_total: 0,866578 
+----------- 
+time_namelookup: 0,002836 
+time_connect: 0,182502 
+time_appconnect: 0,000000 
+time_pretransfer: 0,182659 
+time_redirect: 0,000000 
+time_starttransfer: 0,848172 
+time_total: 0,848325 
+----------- 
+time_namelookup: 0,003692 
+time_connect: 0,174450 
+time_appconnect: 0,000000 
+time_pretransfer: 0,174579 
+time_redirect: 0,000000 
+time_starttransfer: 0,906542 
+time_total: 0,906844 
+----------- 
+time_namelookup: 0,003130 
+time_connect: 0,180580 
+time_appconnect: 0,000000 
+time_pretransfer: 0,180947 
+time_redirect: 0,000000 
+time_starttransfer: 0,909571 
+time_total: 0,909737 
+----------- 
+time_namelookup: 0,002946 
+time_connect: 0,259434 
+time_appconnect: 0,000000 
+time_pretransfer: 0,259623 
+time_redirect: 0,000000 
+time_starttransfer: 0,931128 
+time_total: 0,931340 
+----------- 
